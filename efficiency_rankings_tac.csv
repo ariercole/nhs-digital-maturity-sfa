@@ -1,0 +1,112 @@
+rank,Trust_name,Trust_subtype,Region,dm_score,efficiency_pct,inefficiency_pct
+1,North Tees and Hartlepool NHS Foundation Trust,Acute - Medium,North East,3.0,98.8,1.2
+2,South Tyneside and Sunderland NHS Foundation Trust,Acute - Large,North East,3.443,98.6,1.4
+3,Manchester University NHS Foundation Trust,Acute - Teaching,North West,3.414,98.6,1.4
+4,Royal Free London NHS Foundation Trust,Acute - Teaching,London,2.243,98.5,1.5
+5,Barts Health NHS Trust,Acute - Teaching,London,3.0,98.4,1.6
+6,The Dudley Group NHS Foundation Trust,Acute - Medium,Midlands,3.114,98.3,1.7
+7,Wirral University Teaching Hospital NHS Foundation Trust,Acute - Teaching,North West,2.914,98.0,2.0
+8,Barnsley Hospital NHS Foundation Trust,Acute - Small,North East,2.586,98.0,2.0
+9,East and North Hertfordshire NHS Trust,Acute - Large,East,2.729,97.9,2.1
+10,South Tees Hospitals NHS Foundation Trust,Acute - Teaching,North East,2.671,97.9,2.1
+11,Medway NHS Foundation Trust,Acute - Medium,South East,2.557,97.9,2.1
+12,The Rotherham NHS Foundation Trust,Acute - Small,North East,2.871,97.9,2.1
+13,Chelsea and Westminster Hospital NHS Foundation Trust,Acute - Teaching,London,3.1,97.8,2.2
+14,Lewisham and Greenwich NHS Trust,Acute - Large,London,2.671,97.8,2.2
+15,Surrey and Sussex Healthcare NHS Trust,Acute - Medium,South East,2.757,97.7,2.3
+16,Imperial College Healthcare NHS Trust,Acute - Teaching,London,3.129,97.6,2.4
+17,Worcestershire Acute Hospitals NHS Trust,Acute - Large,Midlands,2.643,97.6,2.4
+18,Mid and South Essex NHS Foundation Trust,Acute - Large,East,2.443,97.5,2.5
+19,University Hospitals of Derby and Burton NHS Foundation Trust,Acute - Teaching,Midlands,2.529,97.4,2.6
+20,Kingston and Richmond NHS Foundation Trust,Acute - Medium,London,2.1,97.4,2.6
+21,Hull University Teaching Hospitals NHS Trust,Acute - Teaching,North East,2.4,97.4,2.6
+22,Walsall Healthcare NHS Trust,Acute - Small,Midlands,2.557,97.3,2.7
+23,Frimley Health NHS Foundation Trust,Acute - Large,South East,2.757,97.3,2.7
+24,Dorset County Hospital NHS Foundation Trust,Acute - Small,South West,2.171,97.3,2.7
+25,University College London Hospitals NHS Foundation Trust,Acute - Teaching,London,3.386,97.3,2.7
+26,East Kent Hospitals University NHS Foundation Trust,Acute - Teaching,South East,2.429,97.2,2.8
+27,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Acute - Teaching,North East,2.357,97.2,2.8
+28,Bradford Teaching Hospitals NHS Foundation Trust,Acute - Teaching,North East,2.471,97.1,2.9
+29,South Warwickshire University NHS Foundation Trust,Acute - Teaching,Midlands,2.6,97.1,2.9
+30,Ashford and St Peter's Hospitals NHS Foundation Trust,Acute - Medium,South East,2.957,97.1,2.9
+31,Mersey and West Lancashire Teaching Hospitals NHS Trust,Acute - Teaching,North West,2.9,97.0,3.0
+32,Royal Cornwall Hospitals NHS Trust,Acute - Large,South West,2.671,97.0,3.0
+33,Warrington and Halton Teaching Hospitals NHS Foundation Trust,Acute - Teaching,North West,2.843,97.0,3.0
+34,East Suffolk and North Essex NHS Foundation Trust,Acute - Large,East,2.643,97.0,3.0
+35,Sheffield Teaching Hospitals NHS Foundation Trust,Acute - Teaching,North East,2.5,97.0,3.0
+36,Calderdale and Huddersfield NHS Foundation Trust,Acute - Large,North East,2.757,97.0,3.0
+37,The Royal Wolverhampton NHS Trust,Acute - Large,Midlands,2.6,96.9,3.1
+38,Homerton Healthcare NHS Foundation Trust,Acute - Teaching,London,2.886,96.9,3.1
+39,Bolton NHS Foundation Trust,Acute - Medium,North West,2.386,96.9,3.1
+40,East Lancashire Hospitals NHS Trust,Acute - Large,North West,2.329,96.9,3.1
+41,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,Acute - Teaching,North East,2.586,96.8,3.2
+42,Sherwood Forest Hospitals NHS Foundation Trust,Acute - Medium,Midlands,2.586,96.8,3.2
+43,University Hospitals Birmingham NHS Foundation Trust,Acute - Teaching,Midlands,2.329,96.8,3.2
+44,Mid Yorkshire Teaching NHS Trust,Acute - Teaching,North East,2.314,96.8,3.2
+45,University Hospitals Coventry and Warwickshire NHS Trust,Acute - Teaching,Midlands,2.914,96.7,3.3
+46,Royal Surrey County Hospital NHS Foundation Trust,Acute - Medium,South East,2.671,96.7,3.3
+47,Gloucestershire Hospitals NHS Foundation Trust,Acute - Large,South West,2.614,96.7,3.3
+48,York and Scarborough Teaching Hospitals NHS Foundation Trust,Acute - Teaching,North East,2.414,96.6,3.4
+49,The Hillingdon Hospitals NHS Foundation Trust,Acute - Small,London,3.057,96.5,3.5
+50,Bedfordshire Hospitals NHS Foundation Trust,Acute - Medium,East,2.0,96.5,3.5
+51,London North West University Healthcare NHS Trust,Acute - Teaching,London,3.1,96.5,3.5
+52,Northumbria Healthcare NHS Foundation Trust,Acute - Large,North East,2.743,96.4,3.6
+53,Northampton General Hospital NHS Trust,Acute - Medium,Midlands,2.657,96.4,3.6
+54,Northern Lincolnshire and Goole NHS Foundation Trust,Acute - Medium,North East,2.286,96.4,3.6
+55,Royal Devon University Healthcare NHS Foundation Trust,Acute - Large,South West,2.514,96.4,3.6
+56,Chesterfield Royal Hospital NHS Foundation Trust,Acute - Small,Midlands,2.329,96.3,3.7
+57,Leeds Teaching Hospitals NHS Trust,Acute - Teaching,North East,2.486,96.2,3.8
+58,Norfolk and Norwich University Hospitals NHS Foundation Trust,Acute - Teaching,East,2.357,96.1,3.9
+59,"Barking, Havering and Redbridge University Hospitals NHS Trust",Acute - Teaching,London,2.2,96.1,3.9
+60,Milton Keynes University Hospital NHS Foundation Trust,Acute - Teaching,East,2.071,95.8,4.2
+61,Cambridge University Hospitals NHS Foundation Trust,Acute - Teaching,East,2.943,95.8,4.2
+62,"Wrightington, Wigan and Leigh NHS Foundation Trust",Acute - Medium,North West,2.471,95.7,4.3
+63,Maidstone and Tunbridge Wells NHS Trust,Acute - Large,South East,2.614,95.7,4.3
+64,North West Anglia NHS Foundation Trust,Acute - Large,East,2.043,95.6,4.4
+65,George Eliot Hospital NHS Trust,Acute - Small,Midlands,2.543,95.6,4.4
+66,Nottingham University Hospitals NHS Trust,Acute - Teaching,Midlands,2.457,95.6,4.4
+67,Harrogate and District NHS Foundation Trust,Acute - Small,North East,2.414,95.6,4.4
+68,University Hospital Southampton NHS Foundation Trust,Acute - Teaching,South East,2.414,95.4,4.6
+69,West Suffolk NHS Foundation Trust,Acute - Small,East,2.743,95.4,4.6
+70,University Hospitals of Leicester NHS Trust,Acute - Teaching,Midlands,2.414,95.4,4.6
+71,Gateshead Health NHS Foundation Trust,Acute - Medium,North East,2.057,95.3,4.7
+72,Blackpool Teaching Hospitals NHS Foundation Trust,Acute - Teaching,North West,2.357,95.2,4.8
+73,Mid Cheshire Hospitals NHS Foundation Trust,Acute - Small,North West,2.657,95.2,4.8
+74,Countess of Chester Hospital NHS Foundation Trust,Acute - Small,North West,3.0,95.1,4.9
+75,Guy's and St Thomas' NHS Foundation Trust,Acute - Teaching,London,2.786,95.0,5.0
+76,West Hertfordshire Teaching Hospitals NHS Trust,Acute - Teaching,East,3.043,95.0,5.0
+77,Royal Berkshire NHS Foundation Trust,Acute - Large,South East,2.243,95.0,5.0
+78,University Hospitals Sussex NHS Foundation Trust,Acute - Teaching,South East,1.9,94.9,5.1
+79,James Paget University Hospitals NHS Foundation Trust,Acute - Teaching,East,2.229,94.8,5.2
+80,University Hospitals of North Midlands NHS Trust,Acute - Teaching,Midlands,2.371,94.7,5.3
+81,Kettering General Hospital NHS Foundation Trust,Acute - Small,Midlands,2.343,94.6,5.4
+82,Croydon Health Services NHS Trust,Acute - Medium,London,2.0,94.5,5.5
+83,Dartford and Gravesham NHS Trust,Acute - Small,South East,2.014,94.4,5.6
+84,Tameside and Glossop Integrated Care NHS Foundation Trust,Acute - Small,North West,2.143,94.4,5.6
+85,Oxford University Hospitals NHS Foundation Trust,Acute - Teaching,South East,2.3,94.2,5.8
+86,Portsmouth Hospitals University National Health Service Trust,Acute - Large,South East,2.243,94.1,5.9
+87,Stockport NHS Foundation Trust,Acute - Medium,North West,2.229,93.7,6.3
+88,United Lincolnshire Hospitals NHS Trust,Acute - Large,Midlands,2.029,93.7,6.3
+89,St George's University Hospitals NHS Foundation Trust,Acute - Teaching,London,2.286,93.4,6.6
+90,Epsom and St Helier University Hospitals NHS Trust,Acute - Teaching,London,2.214,93.3,6.7
+91,East Sussex Healthcare NHS Trust,Acute - Large,South East,2.1,93.2,6.8
+92,Royal United Hospitals Bath NHS Foundation Trust,Acute - Medium,South West,2.357,93.1,6.9
+93,Hampshire Hospitals NHS Foundation Trust,Acute - Large,South East,2.1,93.1,6.9
+94,Great Western Hospitals NHS Foundation Trust,Acute - Medium,South West,2.086,92.6,7.4
+95,University Hospitals Dorset NHS Foundation Trust,Acute - Teaching,South West,2.357,92.6,7.4
+96,The Princess Alexandra Hospital NHS Trust,Acute - Small,East,1.971,92.1,7.9
+97,Sandwell and West Birmingham Hospitals NHS Trust,Acute - Large,Midlands,2.243,92.0,8.0
+98,Northern Care Alliance NHS Foundation Trust,Acute - Teaching,North West,1.929,91.8,8.2
+99,University Hospitals of Morecambe Bay NHS Foundation Trust,Acute - Teaching,North West,2.171,91.5,8.5
+100,King's College Hospital NHS Foundation Trust,Acute - Teaching,London,2.514,91.5,8.5
+101,Lancashire Teaching Hospitals NHS Foundation Trust,Acute - Teaching,North West,2.4,90.4,9.6
+102,The Shrewsbury and Telford Hospital NHS Trust,Acute - Medium,Midlands,1.986,90.0,10.0
+103,North Bristol NHS Trust,Acute - Large,South West,2.143,89.2,10.8
+104,University Hospitals Bristol and Weston NHS Foundation Trust,Acute - Teaching,South West,1.914,88.1,11.9
+105,Liverpool University Hospitals NHS Foundation Trust,Acute - Teaching,North West,2.614,87.6,12.4
+106,University Hospitals Plymouth NHS Trust,Acute - Teaching,South West,2.429,87.4,12.6
+107,Salisbury NHS Foundation Trust,Acute - Small,South West,2.071,85.4,14.6
+108,North Cumbria Integrated Care NHS Foundation Trust,Acute - Medium,North East,2.043,84.8,15.2
+109,Airedale NHS Foundation Trust,Acute - Small,North East,2.086,84.5,15.5
+110,East Cheshire NHS Trust,Acute - Small,North West,1.671,80.4,19.6
+111,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",Acute - Small,East,1.814,78.1,21.9

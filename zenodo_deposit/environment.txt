@@ -1,0 +1,12 @@
+python 3.13.9 (Linux-7.0.0-38-generic-x86_64-with-glibc2.39)
+pymc 6.3.1
+arviz 1.1.0
+pytensor 3.3.0
+numpy 2.4.6
+pandas 2.3.3
+scipy 1.16.3
+matplotlib 3.10.6
+openpyxl 3.1.5
+thefuzz 0.22.1
+scikit-learn 1.6.1
+random_seed 42

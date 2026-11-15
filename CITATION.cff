@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Digital Maturity and Technical Efficiency in NHS Acute Trusts: code and data"
+authors:
+  - family-names: Ercole
+    given-names: Ari
+    orcid: "https://orcid.org/0000-0001-8350-8093"
+    affiliation: "University of Cambridge"
+version: "1.0-resubmission"
+date-released: 2026-11-15
+license: MIT
+repository-code: "https://github.com/ariercole/nhs-digital-maturity-sfa"
+keywords: [stochastic frontier analysis, Bayesian, NHS, digital maturity, technical efficiency]

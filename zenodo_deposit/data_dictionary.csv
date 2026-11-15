@@ -1,0 +1,39 @@
+variable,description,source
+ods_code,NHS ODS organisation code,NHS Oversight Framework
+Trust_name,Trust name,NHS Oversight Framework
+Region,NHS England region,NHS Oversight Framework
+trust_subtype,Acute trust subtype,NHS Oversight Framework
+teaching,1 = acute teaching trust,NHS Oversight Framework
+financial_deficit,1 = trust recorded in financial deficit (sensitivity analysis only),NHS Oversight Framework
+surplus_retained,"Surplus/(deficit) for the year, SCI0240 (GBP; negative = deficit)","TAC02, NHS provider accounts 2024/25"
+surplus_operating,"Operating surplus/(deficit), SCI0140A (GBP; negative = deficit)","TAC02, NHS provider accounts 2024/25"
+income_operating,Operating income = patient care income SCI0100A + other operating income SCI0110A (GBP),"TAC02, NHS provider accounts 2024/25"
+surplus_retained_year,Accounts year used for the TAC02 financial-position lines,TAC02
+deficit_pct_income,"Retained deficit as % of operating income, -100*surplus_retained/income_operating (positive = deficit); primary control, winsorised 1/99 and standardised in the models",derived from TAC02
+deficit_operating_pct_income,"Operating deficit as % of operating income, -100*surplus_operating/income_operating",derived from TAC02
+imd_score,"Catchment-weighted IMD score, 2024 catchment year, all admissions","NHS acute hospital trust catchment populations, April 2026 release, table 6"
+imd_std,imd_score standardised within the analytical sample,derived
+cost_weighted_activity,"Sum of MFF-adjusted expected cost (GBP), output","National Cost Collection 2024/25, org file 2"
+fte_clinical,Medical FTE plus professionally qualified clinical FTE,"NHS Workforce Statistics, Sept 2024"
+fte_support,"FTE in Main Staff Group 018 ""Support to clinical staff""","NHS Workforce Statistics, Sept 2024"
+fte_infrastructure,"FTE in Main Staff Group 035 ""NHS infrastructure support"" (not a model input)","NHS Workforce Statistics, Sept 2024"
+fte_total,"Total FTE, all staff groups","NHS Workforce Statistics, Sept 2024"
+staff_cost_actual,"Total staff costs net of recoveries, STA0360 (GBP)","TAC09, NHS provider accounts 2024/25"
+total_opex_tac,"Total operating expenditure, SCI0125A, sign reversed (GBP)","TAC02, NHS provider accounts 2024/25"
+nle_pure_tac,Non-labour expenditure = total_opex_tac - staff_cost_actual (GBP),derived from TAC
+capital_physical,PPE (BAL1110) + right-of-use assets (BAL1115) (GBP),"TAC03, NHS provider accounts 2024/25"
+digital_maturity_composite,Mean of seven DMA pillar scores (1-5),NHS England Digital Maturity Assessment 2024/25
+Well_Led,DMA pillar score: Well Led,NHS England Digital Maturity Assessment 2024/25
+Ensure_Smart_Foundations,DMA pillar score: Ensure Smart Foundations,NHS England Digital Maturity Assessment 2024/25
+Safe_Practice,DMA pillar score: Safe Practice,NHS England Digital Maturity Assessment 2024/25
+Support_Workforce,DMA pillar score: Support Workforce,NHS England Digital Maturity Assessment 2024/25
+Empower_People,DMA pillar score: Empower People,NHS England Digital Maturity Assessment 2024/25
+Improve_Care,DMA pillar score: Improve Care,NHS England Digital Maturity Assessment 2024/25
+Healthy_Populations,DMA pillar score: Healthy Populations,NHS England Digital Maturity Assessment 2024/25
+digital_maturity_dispersion,SD of the seven pillar scores,derived
+dma_quartile,Quartile of digital_maturity_composite within the sample,derived
+efficiency_A_mean,"Posterior mean technical efficiency, Model A",this study
+efficiency_A_sd,"Posterior SD of technical efficiency, Model A",this study
+efficiency_A_lo95,"2.5th percentile of TE, Model A",this study
+efficiency_A_hi95,"97.5th percentile of TE, Model A",this study
+efficiency_A0_mean,"Posterior mean TE, Model A0 (no covariates in inefficiency)",this study

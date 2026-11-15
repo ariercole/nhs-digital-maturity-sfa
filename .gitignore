@@ -1,0 +1,9 @@
+*.nc
+.ipynb_checkpoints/
+__pycache__/
+NCC_FY2024-25_Org_File2.csv
+ESR/
+TAC/
+*.ods
+archive/
+.DS_Store

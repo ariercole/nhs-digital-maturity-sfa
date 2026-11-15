@@ -1,0 +1,809 @@
+﻿"Catchment 
+year","Admission 
+type","Trust 
+code","Trust 
+name",IMD score proportion,Total catchment,IMD score,IMD Rank
+2023,All Admissions,R0A,Manchester University NHS Foundation Trust,"34,564,032","1,186,535",29.1,19
+2023,All Admissions,R0B,South Tyneside and Sunderland NHS Foundation Trust,"13,753,715","428,182",32.1,8
+2023,All Admissions,R0D,University Hospitals Dorset NHS Foundation Trust,"8,590,106","534,020",16.1,109
+2023,All Admissions,R1F,Isle of Wight NHS Trust,"2,854,176","115,990",24.6,45
+2023,All Admissions,R1H,Barts Health NHS Trust,"28,728,864","1,073,167",26.8,30
+2023,All Admissions,R1K,London North West University Healthcare NHS Trust,"13,842,196","588,417",23.5,51
+2023,All Admissions,RA2,Royal Surrey County Hospital NHS Foundation Trust,"3,228,635","324,777",9.9,134
+2023,All Admissions,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,"11,449,475","599,784",19.1,88
+2023,All Admissions,RA9,Torbay and South Devon NHS Foundation Trust,"5,390,044","244,172",22.1,65
+2023,All Admissions,RAE,Bradford Teaching Hospitals NHS Foundation Trust,"15,853,078","405,934",39.1,1
+2023,All Admissions,RAJ,Mid and South Essex NHS Foundation Trust,"20,034,412","1,096,192",18.3,95
+2023,All Admissions,RAL,Royal Free London NHS Foundation Trust,"22,038,639","909,237",24.2,47
+2023,All Admissions,RAN,Royal National Orthopaedic Hospital NHS Trust,"991,098","53,046",18.7,93
+2023,All Admissions,RAS,The Hillingdon Hospitals NHS Foundation Trust,"5,269,831","240,750",21.9,69
+2023,All Admissions,RAX,Kingston and Richmond NHS Foundation Trust,"3,685,387","340,247",10.8,133
+2023,All Admissions,RBD,Dorset County Hospital NHS Foundation Trust,"3,555,312","189,662",18.7,92
+2023,All Admissions,RBK,Walsall Healthcare NHS Trust,"8,241,793","260,491",31.6,10
+2023,All Admissions,RBL,Wirral University Teaching Hospital NHS Foundation Trust,"7,870,569","295,741",26.6,33
+2023,All Admissions,RBN,Mersey and West Lancashire Teaching Hospitals NHS Trust,"15,213,980","571,033",26.6,31
+2023,All Admissions,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,"1,487,956","57,473",25.9,37
+2023,All Admissions,RBS,Alder Hey Children's NHS Foundation Trust,"3,776,851","116,281",32.5,7
+2023,All Admissions,RBT,Mid Cheshire Hospitals NHS Foundation Trust,"4,656,818","262,021",17.8,101
+2023,All Admissions,RBV,The Christie NHS Foundation Trust,"1,281,817","55,401",23.1,54
+2023,All Admissions,RC9,Bedfordshire Hospitals NHS Foundation Trust,"12,623,317","628,749",20.1,81
+2023,All Admissions,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,"8,299,542","489,818",16.9,104
+2023,All Admissions,RCD,Harrogate and District NHS Foundation Trust,"2,119,080","184,798",11.5,132
+2023,All Admissions,RCF,Airedale NHS Foundation Trust,"3,922,195","178,302",22,66
+2023,All Admissions,RCU,Sheffield Children's NHS Foundation Trust,"2,547,215","86,371",29.5,18
+2023,All Admissions,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust","5,177,437","206,527",25.1,42
+2023,All Admissions,RD1,Royal United Hospitals Bath NHS Foundation Trust,"5,611,677","413,765",13.6,119
+2023,All Admissions,RD8,Milton Keynes University Hospital NHS Foundation Trust,"5,087,230","294,313",17.3,103
+2023,All Admissions,RDE,East Suffolk and North Essex NHS Foundation Trust,"14,127,886","680,319",20.8,77
+2023,All Admissions,RDU,Frimley Health NHS Foundation Trust,"8,464,604","700,278",12.1,127
+2023,All Admissions,REF,Royal Cornwall Hospitals NHS Trust,"9,401,847","423,494",22.2,63
+2023,All Admissions,REM,Liverpool University Hospitals NHS Foundation Trust,"16,457,953","500,545",32.9,5
+2023,All Admissions,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,"375,092","13,728",27.3,27
+2023,All Admissions,REP,Liverpool Women's NHS Foundation Trust,"4,665,326","130,446",35.8,3
+2023,All Admissions,RET,The Walton Centre NHS Foundation Trust,"907,666","32,734",27.7,25
+2023,All Admissions,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust","12,621,285","577,853",21.8,70
+2023,All Admissions,RFF,Barnsley Hospital NHS Foundation Trust,"6,366,132","221,757",28.7,21
+2023,All Admissions,RFR,The Rotherham NHS Foundation Trust,"6,830,559","220,737",30.9,13
+2023,All Admissions,RFS,Chesterfield Royal Hospital NHS Foundation Trust,"5,451,336","251,180",21.7,71
+2023,All Admissions,RGM,Royal Papworth Hospital NHS Foundation Trust,"1,812,612","110,236",16.4,108
+2023,All Admissions,RGN,North West Anglia NHS Foundation Trust,"9,838,981","515,034",19.1,87
+2023,All Admissions,RGP,James Paget University Hospitals NHS Foundation Trust,"5,787,660","203,441",28.4,22
+2023,All Admissions,RGR,West Suffolk NHS Foundation Trust,"4,250,030","251,230",16.9,105
+2023,All Admissions,RGT,Cambridge University Hospitals NHS Foundation Trust,"7,206,775","575,336",12.5,124
+2023,All Admissions,RH5,Somerset NHS Foundation Trust,"9,104,241","470,254",19.4,85
+2023,All Admissions,RH8,Royal Devon University Healthcare NHS Foundation Trust,"11,082,569","598,121",18.5,94
+2023,All Admissions,RHM,University Hospital Southampton NHS Foundation Trust,"11,176,633","624,961",17.9,98
+2023,All Admissions,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,"17,816,183","669,163",26.6,32
+2023,All Admissions,RHU,Portsmouth Hospitals University NHS Trust,"11,175,385","568,519",19.7,83
+2023,All Admissions,RHW,Royal Berkshire NHS Foundation Trust,"5,677,241","485,040",11.7,131
+2023,All Admissions,RJ1,Guy's and St Thomas' NHS Foundation Trust,"17,361,450","835,045",20.8,76
+2023,All Admissions,RJ2,Lewisham and Greenwich NHS Trust,"11,262,752","505,184",22.3,60
+2023,All Admissions,RJ6,Croydon Health Services NHS Trust,"5,835,731","260,055",22.4,59
+2023,All Admissions,RJ7,St George's University Hospitals NHS Foundation Trust,"7,874,453","507,499",15.5,112
+2023,All Admissions,RJC,South Warwickshire University NHS Foundation Trust,"3,253,369","273,940",11.9,130
+2023,All Admissions,RJE,University Hospitals of North Midlands NHS Trust,"15,231,243","666,088",22.9,57
+2023,All Admissions,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,"9,575,911","362,443",26.4,34
+2023,All Admissions,RJN,East Cheshire NHS Trust,"1,525,111","118,791",12.8,123
+2023,All Admissions,RJR,Countess of Chester Hospital NHS Foundation Trust,"3,539,312","196,271",18,97
+2023,All Admissions,RJZ,King's College Hospital NHS Foundation Trust,"13,282,219","705,472",18.8,90
+2023,All Admissions,RK5,Sherwood Forest Hospitals NHS Foundation Trust,"7,998,381","334,057",23.9,48
+2023,All Admissions,RK9,University Hospitals Plymouth NHS Trust,"10,537,289","480,751",21.9,68
+2023,All Admissions,RKB,University Hospitals Coventry and Warwickshire NHS Trust,"12,552,811","559,119",22.5,58
+2023,All Admissions,RKE,Whittington Health NHS Trust,"5,099,303","202,297",25.2,41
+2023,All Admissions,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,"898,311","50,333",17.8,99
+2023,All Admissions,RL4,The Royal Wolverhampton NHS Trust,"12,708,861","469,789",27.1,29
+2023,All Admissions,RLQ,Wye Valley NHS Trust,"3,297,730","175,415",18.8,91
+2023,All Admissions,RLT,George Eliot Hospital NHS Trust,"3,804,735","176,315",21.6,73
+2023,All Admissions,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,"11,481,525","608,475",18.9,89
+2023,All Admissions,RM3,Northern Care Alliance NHS Foundation Trust,"24,355,555","761,145",32,9
+2023,All Admissions,RMC,Bolton NHS Foundation Trust,"9,907,598","319,259",31,12
+2023,All Admissions,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,"5,627,544","190,004",29.6,17
+2023,All Admissions,RN3,Great Western Hospitals NHS Foundation Trust,"5,554,689","361,386",15.4,115
+2023,All Admissions,RN5,Hampshire Hospitals NHS Foundation Trust,"5,570,412","467,791",11.9,128
+2023,All Admissions,RN7,Dartford and Gravesham NHS Trust,"5,965,530","306,617",19.5,84
+2023,All Admissions,RNA,The Dudley Group NHS Foundation Trust,"8,739,945","357,633",24.4,46
+2023,All Admissions,RNN,North Cumbria Integrated Care NHS Foundation Trust,"5,888,934","257,339",22.9,56
+2023,All Admissions,RNQ,Kettering General Hospital NHS Foundation Trust,"5,465,263","299,585",18.2,96
+2023,All Admissions,RNS,Northampton General Hospital NHS Trust,"6,682,336","376,870",17.7,102
+2023,All Admissions,RNZ,Salisbury NHS Foundation Trust,"3,183,544","220,712",14.4,116
+2023,All Admissions,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,"1,893,329","86,131",22,67
+2023,All Admissions,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,"10,825,035","385,009",28.1,23
+2023,All Admissions,RP6,Moorfields Eye Hospital NHS Foundation Trust,"4,368,459","196,131",22.3,61
+2023,All Admissions,RPA,Medway NHS Foundation Trust,"8,144,134","325,047",25.1,43
+2023,All Admissions,RPC,Queen Victoria Hospital NHS Foundation Trust,"2,032,516","123,007",16.5,107
+2023,All Admissions,RPY,The Royal Marsden NHS Foundation Trust,"925,054","67,684",13.7,118
+2023,All Admissions,RQ3,Birmingham Women's and Children's NHS Foundation Trust,"8,173,323","249,190",32.8,6
+2023,All Admissions,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,"11,257,905","548,309",20.5,78
+2023,All Admissions,RQW,The Princess Alexandra Hospital NHS Trust,"3,799,845","244,524",15.5,111
+2023,All Admissions,RQX,Homerton Healthcare NHS Foundation Trust,"8,498,527","284,704",29.9,16
+2023,All Admissions,RR7,Gateshead Health NHS Foundation Trust,"4,900,301","176,142",27.8,24
+2023,All Admissions,RR8,Leeds Teaching Hospitals NHS Trust,"22,134,882","875,524",25.3,40
+2023,All Admissions,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust","7,003,622","282,395",24.8,44
+2023,All Admissions,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,"1,828,387","69,534",26.3,36
+2023,All Admissions,RRK,University Hospitals Birmingham NHS Foundation Trust,"34,129,176","1,109,216",30.8,14
+2023,All Admissions,RRV,University College London Hospitals NHS Foundation Trust,"12,656,263","547,341",23.1,55
+2023,All Admissions,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,"17,414,964","660,924",26.3,35
+2023,All Admissions,RTE,Gloucestershire Hospitals NHS Foundation Trust,"9,137,724","594,214",15.4,114
+2023,All Admissions,RTF,Northumbria Healthcare NHS Foundation Trust,"8,492,225","383,581",22.1,64
+2023,All Admissions,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,"16,345,751","807,480",20.2,80
+2023,All Admissions,RTH,Oxford University Hospitals NHS Foundation Trust,"10,103,365","849,779",11.9,129
+2023,All Admissions,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,"4,152,272","322,993",12.9,122
+2023,All Admissions,RTP,Surrey and Sussex Healthcare NHS Trust,"5,025,402","376,104",13.4,120
+2023,All Admissions,RTR,South Tees Hospitals NHS Foundation Trust,"13,840,326","475,862",29.1,20
+2023,All Admissions,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,"5,879,601","293,812",20,82
+2023,All Admissions,RVJ,North Bristol NHS Trust,"8,346,809","526,357",15.9,110
+2023,All Admissions,RVR,Epsom and St Helier University Hospitals NHS Trust,"4,387,631","361,272",12.1,126
+2023,All Admissions,RVV,East Kent Hospitals University NHS Foundation Trust,"15,242,654","637,216",23.9,50
+2023,All Admissions,RVW,North Tees and Hartlepool NHS Foundation Trust,"8,437,987","270,145",31.2,11
+2023,All Admissions,RWA,Hull University Teaching Hospitals NHS Trust,"14,165,679","551,031",25.7,39
+2023,All Admissions,RWD,United Lincolnshire Teaching Hospitals NHS Trust,"11,808,883","506,327",23.3,52
+2023,All Admissions,RWE,University Hospitals of Leicester NHS Trust,"20,355,367","962,802",21.1,75
+2023,All Admissions,RWF,Maidstone and Tunbridge Wells NHS Trust,"7,975,853","514,969",15.5,113
+2023,All Admissions,RWG,West Hertfordshire Teaching Hospitals NHS Trust,"4,975,001","381,836",13,121
+2023,All Admissions,RWH,East and North Hertfordshire NHS Trust,"5,921,200","424,049",14,117
+2023,All Admissions,RWJ,Stockport NHS Foundation Trust,"5,641,668","295,159",19.1,86
+2023,All Admissions,RWP,Worcestershire Acute Hospitals NHS Trust,"9,134,661","512,114",17.8,100
+2023,All Admissions,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,"4,697,269","220,687",21.3,74
+2023,All Admissions,RWY,Calderdale and Huddersfield NHS Foundation Trust,"10,319,280","399,287",25.8,38
+2023,All Admissions,RX1,Nottingham University Hospitals NHS Trust,"19,251,944","865,588",22.2,62
+2023,All Admissions,RXC,East Sussex Healthcare NHS Trust,"8,246,520","344,478",23.9,49
+2023,All Admissions,RXF,Mid Yorkshire Teaching NHS Trust,"14,107,629","514,921",27.4,26
+2023,All Admissions,RXK,Sandwell and West Birmingham Hospitals NHS Trust,"15,952,939","429,742",37.1,2
+2023,All Admissions,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,"8,890,457","297,747",29.9,15
+2023,All Admissions,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,"9,958,181","460,263",21.6,72
+2023,All Admissions,RXP,County Durham and Darlington NHS Foundation Trust,"12,027,486","443,141",27.1,28
+2023,All Admissions,RXQ,Buckinghamshire Healthcare NHS Trust,"5,033,063","408,996",12.3,125
+2023,All Admissions,RXR,East Lancashire Hospitals NHS Trust,"15,396,440","463,695",33.2,4
+2023,All Admissions,RXW,The Shrewsbury and Telford Hospital NHS Trust,"8,091,494","399,570",20.3,79
+2023,All Admissions,RYJ,Imperial College Healthcare NHS Trust,"16,081,979","690,756",23.3,53
+2023,All Admissions,RYR,University Hospitals Sussex NHS Foundation Trust,"15,967,283","957,490",16.7,106
+2023,Elective,R0A,Manchester University NHS Foundation Trust,"35,171,696","1,223,270",28.8,22
+2023,Elective,R0B,South Tyneside and Sunderland NHS Foundation Trust,"14,338,121","453,676",31.6,10
+2023,Elective,R0D,University Hospitals Dorset NHS Foundation Trust,"8,680,146","540,089",16.1,110
+2023,Elective,R1F,Isle of Wight NHS Trust,"2,708,324","110,187",24.6,44
+2023,Elective,R1H,Barts Health NHS Trust,"26,826,779","1,007,626",26.6,31
+2023,Elective,R1K,London North West University Healthcare NHS Trust,"12,459,334","525,216",23.7,52
+2023,Elective,RA2,Royal Surrey County Hospital NHS Foundation Trust,"3,262,358","324,940",10,134
+2023,Elective,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,"11,697,049","623,201",18.8,92
+2023,Elective,RA9,Torbay and South Devon NHS Foundation Trust,"5,150,809","232,631",22.1,66
+2023,Elective,RAE,Bradford Teaching Hospitals NHS Foundation Trust,"15,531,234","403,775",38.5,1
+2023,Elective,RAJ,Mid and South Essex NHS Foundation Trust,"19,327,790","1,059,042",18.3,96
+2023,Elective,RAL,Royal Free London NHS Foundation Trust,"20,883,288","860,321",24.3,46
+2023,Elective,RAN,Royal National Orthopaedic Hospital NHS Trust,"1,867,846","98,197",19,90
+2023,Elective,RAS,The Hillingdon Hospitals NHS Foundation Trust,"4,369,692","209,736",20.8,76
+2023,Elective,RAX,Kingston and Richmond NHS Foundation Trust,"3,120,075","291,168",10.7,133
+2023,Elective,RBD,Dorset County Hospital NHS Foundation Trust,"3,489,677","185,603",18.8,91
+2023,Elective,RBK,Walsall Healthcare NHS Trust,"7,048,227","217,399",32.4,7
+2023,Elective,RBL,Wirral University Teaching Hospital NHS Foundation Trust,"7,540,563","285,144",26.4,33
+2023,Elective,RBN,Mersey and West Lancashire Teaching Hospitals NHS Trust,"13,857,568","526,899",26.3,36
+2023,Elective,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,"1,896,326","70,121",27,30
+2023,Elective,RBS,Alder Hey Children's NHS Foundation Trust,"4,174,253","130,579",32,9
+2023,Elective,RBT,Mid Cheshire Hospitals NHS Foundation Trust,"4,226,219","238,521",17.7,101
+2023,Elective,RBV,The Christie NHS Foundation Trust,"2,157,474","89,868",24,48
+2023,Elective,RC9,Bedfordshire Hospitals NHS Foundation Trust,"11,680,671","581,043",20.1,81
+2023,Elective,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,"7,869,999","468,571",16.8,106
+2023,Elective,RCD,Harrogate and District NHS Foundation Trust,"2,175,038","187,357",11.6,132
+2023,Elective,RCF,Airedale NHS Foundation Trust,"3,715,242","165,724",22.4,59
+2023,Elective,RCU,Sheffield Children's NHS Foundation Trust,"3,515,660","116,389",30.2,15
+2023,Elective,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust","4,695,869","186,695",25.2,42
+2023,Elective,RD1,Royal United Hospitals Bath NHS Foundation Trust,"5,117,669","378,727",13.5,119
+2023,Elective,RD8,Milton Keynes University Hospital NHS Foundation Trust,"4,741,163","275,018",17.2,103
+2023,Elective,RDE,East Suffolk and North Essex NHS Foundation Trust,"13,672,190","659,650",20.7,77
+2023,Elective,RDU,Frimley Health NHS Foundation Trust,"7,901,651","655,847",12,129
+2023,Elective,REF,Royal Cornwall Hospitals NHS Trust,"9,439,584","424,935",22.2,63
+2023,Elective,REM,Liverpool University Hospitals NHS Foundation Trust,"19,664,467","600,829",32.7,6
+2023,Elective,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,"560,876","19,520",28.7,23
+2023,Elective,REP,Liverpool Women's NHS Foundation Trust,"1,976,249","57,575",34.3,3
+2023,Elective,RET,The Walton Centre NHS Foundation Trust,"1,465,549","50,505",29,19
+2023,Elective,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust","11,883,804","546,531",21.7,72
+2023,Elective,RFF,Barnsley Hospital NHS Foundation Trust,"5,733,095","197,873",29,20
+2023,Elective,RFR,The Rotherham NHS Foundation Trust,"5,979,076","194,091",30.8,13
+2023,Elective,RFS,Chesterfield Royal Hospital NHS Foundation Trust,"4,788,916","220,470",21.7,73
+2023,Elective,RGM,Royal Papworth Hospital NHS Foundation Trust,"2,497,420","151,627",16.5,107
+2023,Elective,RGN,North West Anglia NHS Foundation Trust,"9,329,127","483,369",19.3,86
+2023,Elective,RGP,James Paget University Hospitals NHS Foundation Trust,"5,654,219","199,599",28.3,24
+2023,Elective,RGR,West Suffolk NHS Foundation Trust,"3,991,666","236,703",16.9,104
+2023,Elective,RGT,Cambridge University Hospitals NHS Foundation Trust,"7,848,426","607,666",12.9,123
+2023,Elective,RH5,Somerset NHS Foundation Trust,"8,614,963","444,344",19.4,85
+2023,Elective,RH8,Royal Devon University Healthcare NHS Foundation Trust,"11,310,554","609,276",18.6,94
+2023,Elective,RHM,University Hospital Southampton NHS Foundation Trust,"11,721,495","654,686",17.9,99
+2023,Elective,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,"19,896,431","754,352",26.4,34
+2023,Elective,RHU,Portsmouth Hospitals University NHS Trust,"11,323,822","580,069",19.5,83
+2023,Elective,RHW,Royal Berkshire NHS Foundation Trust,"6,019,337","510,451",11.8,131
+2023,Elective,RJ1,Guy's and St Thomas' NHS Foundation Trust,"21,731,857","1,058,543",20.5,78
+2023,Elective,RJ2,Lewisham and Greenwich NHS Trust,"8,736,412","393,871",22.2,64
+2023,Elective,RJ6,Croydon Health Services NHS Trust,"5,620,730","254,083",22.1,67
+2023,Elective,RJ7,St George's University Hospitals NHS Foundation Trust,"7,668,789","506,389",15.1,115
+2023,Elective,RJC,South Warwickshire University NHS Foundation Trust,"3,081,233","253,520",12.2,126
+2023,Elective,RJE,University Hospitals of North Midlands NHS Trust,"14,947,334","649,992",23,55
+2023,Elective,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,"8,742,420","333,910",26.2,37
+2023,Elective,RJN,East Cheshire NHS Trust,"1,500,902","117,784",12.7,124
+2023,Elective,RJR,Countess of Chester Hospital NHS Foundation Trust,"3,370,870","186,720",18.1,98
+2023,Elective,RJZ,King's College Hospital NHS Foundation Trust,"14,964,903","778,533",19.2,87
+2023,Elective,RK5,Sherwood Forest Hospitals NHS Foundation Trust,"7,400,031","310,675",23.8,50
+2023,Elective,RK9,University Hospitals Plymouth NHS Trust,"10,597,017","484,029",21.9,70
+2023,Elective,RKB,University Hospitals Coventry and Warwickshire NHS Trust,"12,108,927","546,855",22.1,65
+2023,Elective,RKE,Whittington Health NHS Trust,"4,432,149","175,867",25.2,41
+2023,Elective,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,"1,633,827","90,376",18.1,97
+2023,Elective,RL4,The Royal Wolverhampton NHS Trust,"12,553,885","474,230",26.5,32
+2023,Elective,RLQ,Wye Valley NHS Trust,"3,246,088","173,101",18.8,93
+2023,Elective,RLT,George Eliot Hospital NHS Trust,"3,787,306","171,276",22.1,68
+2023,Elective,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,"12,001,102","628,895",19.1,88
+2023,Elective,RM3,Northern Care Alliance NHS Foundation Trust,"26,154,403","813,212",32.2,8
+2023,Elective,RMC,Bolton NHS Foundation Trust,"8,566,202","275,666",31.1,12
+2023,Elective,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,"4,588,538","155,309",29.5,17
+2023,Elective,RN3,Great Western Hospitals NHS Foundation Trust,"5,233,865","338,723",15.5,113
+2023,Elective,RN5,Hampshire Hospitals NHS Foundation Trust,"5,239,924","442,560",11.8,130
+2023,Elective,RN7,Dartford and Gravesham NHS Trust,"5,359,698","275,784",19.4,84
+2023,Elective,RNA,The Dudley Group NHS Foundation Trust,"8,328,596","343,268",24.3,47
+2023,Elective,RNN,North Cumbria Integrated Care NHS Foundation Trust,"5,278,629","230,097",22.9,56
+2023,Elective,RNQ,Kettering General Hospital NHS Foundation Trust,"5,465,022","296,902",18.4,95
+2023,Elective,RNS,Northampton General Hospital NHS Trust,"6,231,700","352,643",17.7,102
+2023,Elective,RNZ,Salisbury NHS Foundation Trust,"3,188,596","220,273",14.5,116
+2023,Elective,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,"3,481,081","156,142",22.3,61
+2023,Elective,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,"10,405,074","367,923",28.3,25
+2023,Elective,RP6,Moorfields Eye Hospital NHS Foundation Trust,"8,140,050","354,958",22.9,57
+2023,Elective,RPA,Medway NHS Foundation Trust,"7,045,644","282,893",24.9,43
+2023,Elective,RPC,Queen Victoria Hospital NHS Foundation Trust,"2,397,489","147,816",16.2,108
+2023,Elective,RPY,The Royal Marsden NHS Foundation Trust,"1,662,422","119,620",13.9,118
+2023,Elective,RQ3,Birmingham Women's and Children's NHS Foundation Trust,"7,099,382","215,232",33,5
+2023,Elective,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,"8,780,035","417,920",21,74
+2023,Elective,RQW,The Princess Alexandra Hospital NHS Trust,"3,194,774","205,213",15.6,112
+2023,Elective,RQX,Homerton Healthcare NHS Foundation Trust,"8,620,132","288,451",29.9,16
+2023,Elective,RR7,Gateshead Health NHS Foundation Trust,"4,687,671","169,034",27.7,27
+2023,Elective,RR8,Leeds Teaching Hospitals NHS Trust,"24,019,623","944,724",25.4,40
+2023,Elective,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust","7,443,414","304,079",24.5,45
+2023,Elective,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,"4,305,485","152,757",28.2,26
+2023,Elective,RRK,University Hospitals Birmingham NHS Foundation Trust,"34,890,404","1,143,579",30.5,14
+2023,Elective,RRV,University College London Hospitals NHS Foundation Trust,"15,838,258","695,459",22.8,58
+2023,Elective,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,"19,582,887","743,342",26.3,35
+2023,Elective,RTE,Gloucestershire Hospitals NHS Foundation Trust,"9,124,706","594,938",15.3,114
+2023,Elective,RTF,Northumbria Healthcare NHS Foundation Trust,"8,000,635","363,246",22,69
+2023,Elective,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,"16,695,818","822,913",20.3,79
+2023,Elective,RTH,Oxford University Hospitals NHS Foundation Trust,"10,689,408","883,617",12.1,128
+2023,Elective,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,"4,341,012","321,644",13.5,120
+2023,Elective,RTP,Surrey and Sussex Healthcare NHS Trust,"4,705,223","354,149",13.3,121
+2023,Elective,RTR,South Tees Hospitals NHS Foundation Trust,"15,144,835","525,035",28.8,21
+2023,Elective,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,"5,477,295","274,145",20,82
+2023,Elective,RVJ,North Bristol NHS Trust,"8,872,827","551,673",16.1,109
+2023,Elective,RVR,Epsom and St Helier University Hospitals NHS Trust,"4,563,858","374,447",12.2,125
+2023,Elective,RVV,East Kent Hospitals University NHS Foundation Trust,"14,846,851","621,464",23.9,49
+2023,Elective,RVW,North Tees and Hartlepool NHS Foundation Trust,"7,747,809","248,144",31.2,11
+2023,Elective,RWA,Hull University Teaching Hospitals NHS Trust,"14,573,501","567,587",25.7,39
+2023,Elective,RWD,United Lincolnshire Teaching Hospitals NHS Trust,"10,911,520","463,417",23.5,53
+2023,Elective,RWE,University Hospitals of Leicester NHS Trust,"21,017,241","1,005,437",20.9,75
+2023,Elective,RWF,Maidstone and Tunbridge Wells NHS Trust,"7,788,617","489,943",15.9,111
+2023,Elective,RWG,West Hertfordshire Teaching Hospitals NHS Trust,"4,788,886","368,588",13,122
+2023,Elective,RWH,East and North Hertfordshire NHS Trust,"6,300,960","446,468",14.1,117
+2023,Elective,RWJ,Stockport NHS Foundation Trust,"4,970,266","260,608",19.1,89
+2023,Elective,RWP,Worcestershire Acute Hospitals NHS Trust,"8,696,829","488,434",17.8,100
+2023,Elective,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,"4,463,756","205,026",21.8,71
+2023,Elective,RWY,Calderdale and Huddersfield NHS Foundation Trust,"9,776,113","380,359",25.7,38
+2023,Elective,RX1,Nottingham University Hospitals NHS Trust,"20,158,486","904,649",22.3,62
+2023,Elective,RXC,East Sussex Healthcare NHS Trust,"7,917,181","333,647",23.7,51
+2023,Elective,RXF,Mid Yorkshire Teaching NHS Trust,"13,468,326","493,131",27.3,29
+2023,Elective,RXK,Sandwell and West Birmingham Hospitals NHS Trust,"16,273,944","442,751",36.8,2
+2023,Elective,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,"8,257,651","279,715",29.5,18
+2023,Elective,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,"11,147,665","497,988",22.4,60
+2023,Elective,RXP,County Durham and Darlington NHS Foundation Trust,"9,970,446","361,384",27.6,28
+2023,Elective,RXQ,Buckinghamshire Healthcare NHS Trust,"4,783,548","394,515",12.1,127
+2023,Elective,RXR,East Lancashire Hospitals NHS Trust,"14,754,672","446,312",33.1,4
+2023,Elective,RXW,The Shrewsbury and Telford Hospital NHS Trust,"7,292,969","359,696",20.3,80
+2023,Elective,RYJ,Imperial College Healthcare NHS Trust,"16,749,812","726,783",23,54
+2023,Elective,RYR,University Hospitals Sussex NHS Foundation Trust,"15,476,966","919,969",16.8,105
+2023,Emergency,R0A,Manchester University NHS Foundation Trust,"30,506,174","1,018,243",30,18
+2023,Emergency,R0B,South Tyneside and Sunderland NHS Foundation Trust,"13,974,901","428,479",32.6,9
+2023,Emergency,R0D,University Hospitals Dorset NHS Foundation Trust,"8,724,681","545,462",16,106
+2023,Emergency,R1F,Isle of Wight NHS Trust,"3,098,788","126,000",24.6,45
+2023,Emergency,R1H,Barts Health NHS Trust,"29,735,702","1,096,208",27.1,30
+2023,Emergency,R1K,London North West University Healthcare NHS Trust,"17,689,051","746,284",23.7,54
+2023,Emergency,RA2,Royal Surrey County Hospital NHS Foundation Trust,"3,207,640","328,240",9.8,132
+2023,Emergency,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,"11,171,475","576,149",19.4,83
+2023,Emergency,RA9,Torbay and South Devon NHS Foundation Trust,"5,749,118","261,423",22,67
+2023,Emergency,RAE,Bradford Teaching Hospitals NHS Foundation Trust,"16,118,020","408,266",39.5,2
+2023,Emergency,RAJ,Mid and South Essex NHS Foundation Trust,"20,603,128","1,129,021",18.2,94
+2023,Emergency,RAL,Royal Free London NHS Foundation Trust,"22,877,107","932,655",24.5,46
+2023,Emergency,RAS,The Hillingdon Hospitals NHS Foundation Trust,"5,233,760","239,272",21.9,68
+2023,Emergency,RAX,Kingston and Richmond NHS Foundation Trust,"3,718,242","347,361",10.7,131
+2023,Emergency,RBD,Dorset County Hospital NHS Foundation Trust,"3,595,048","190,529",18.9,86
+2023,Emergency,RBK,Walsall Healthcare NHS Trust,"8,655,641","277,840",31.2,12
+2023,Emergency,RBL,Wirral University Teaching Hospital NHS Foundation Trust,"8,269,730","311,620",26.5,35
+2023,Emergency,RBN,Mersey and West Lancashire Teaching Hospitals NHS Trust,"16,326,595","609,317",26.8,32
+2023,Emergency,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,"614,468","23,305",26.4,37
+2023,Emergency,RBS,Alder Hey Children's NHS Foundation Trust,"3,952,418","115,027",34.4,6
+2023,Emergency,RBT,Mid Cheshire Hospitals NHS Foundation Trust,"5,063,771","287,199",17.6,101
+2023,Emergency,RBV,The Christie NHS Foundation Trust,"1,071,309","45,108",23.7,53
+2023,Emergency,RC9,Bedfordshire Hospitals NHS Foundation Trust,"13,138,257","660,970",19.9,79
+2023,Emergency,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,"8,753,087","518,732",16.9,104
+2023,Emergency,RCD,Harrogate and District NHS Foundation Trust,"1,919,728","175,203",11,130
+2023,Emergency,RCF,Airedale NHS Foundation Trust,"4,218,088","195,279",21.6,69
+2023,Emergency,RCU,Sheffield Children's NHS Foundation Trust,"1,549,116","52,036",29.8,19
+2023,Emergency,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust","5,815,058","232,363",25,43
+2023,Emergency,RD1,Royal United Hospitals Bath NHS Foundation Trust,"5,879,754","434,780",13.5,116
+2023,Emergency,RD8,Milton Keynes University Hospital NHS Foundation Trust,"5,464,909","318,321",17.2,102
+2023,Emergency,RDE,East Suffolk and North Essex NHS Foundation Trust,"14,789,747","711,842",20.8,75
+2023,Emergency,RDU,Frimley Health NHS Foundation Trust,"8,684,445","719,519",12.1,123
+2023,Emergency,REF,Royal Cornwall Hospitals NHS Trust,"9,350,494","421,825",22.2,63
+2023,Emergency,REM,Liverpool University Hospitals NHS Foundation Trust,"19,197,630","558,495",34.4,5
+2023,Emergency,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,"265,425","9,601",27.6,27
+2023,Emergency,REP,Liverpool Women's NHS Foundation Trust,"374,562","9,454",39.6,1
+2023,Emergency,RET,The Walton Centre NHS Foundation Trust,"452,442","16,245",27.9,25
+2023,Emergency,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust","14,496,954","657,754",22,65
+2023,Emergency,RFF,Barnsley Hospital NHS Foundation Trust,"6,650,014","230,632",28.8,22
+2023,Emergency,RFR,The Rotherham NHS Foundation Trust,"7,587,575","245,717",30.9,14
+2023,Emergency,RFS,Chesterfield Royal Hospital NHS Foundation Trust,"5,955,292","276,775",21.5,70
+2023,Emergency,RGM,Royal Papworth Hospital NHS Foundation Trust,"333,426","20,921",15.9,107
+2023,Emergency,RGN,North West Anglia NHS Foundation Trust,"10,600,565","564,721",18.8,89
+2023,Emergency,RGP,James Paget University Hospitals NHS Foundation Trust,"6,013,033","209,921",28.6,23
+2023,Emergency,RGR,West Suffolk NHS Foundation Trust,"4,730,048","279,654",16.9,103
+2023,Emergency,RGT,Cambridge University Hospitals NHS Foundation Trust,"6,189,850","512,982",12.1,124
+2023,Emergency,RH5,Somerset NHS Foundation Trust,"9,552,681","494,592",19.3,84
+2023,Emergency,RH8,Royal Devon University Healthcare NHS Foundation Trust,"10,906,456","590,208",18.5,91
+2023,Emergency,RHM,University Hospital Southampton NHS Foundation Trust,"10,328,297","573,488",18,96
+2023,Emergency,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,"15,815,555","583,285",27.1,31
+2023,Emergency,RHU,Portsmouth Hospitals University NHS Trust,"11,344,465","576,861",19.7,81
+2023,Emergency,RHW,Royal Berkshire NHS Foundation Trust,"5,594,178","484,213",11.6,128
+2023,Emergency,RJ1,Guy's and St Thomas' NHS Foundation Trust,"11,798,726","527,288",22.4,60
+2023,Emergency,RJ2,Lewisham and Greenwich NHS Trust,"13,149,932","594,425",22.1,64
+2023,Emergency,RJ6,Croydon Health Services NHS Trust,"5,894,424","259,998",22.7,58
+2023,Emergency,RJ7,St George's University Hospitals NHS Foundation Trust,"8,069,528","518,585",15.6,109
+2023,Emergency,RJC,South Warwickshire University NHS Foundation Trust,"3,131,787","273,138",11.5,129
+2023,Emergency,RJE,University Hospitals of North Midlands NHS Trust,"15,357,401","675,372",22.7,56
+2023,Emergency,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,"10,170,262","384,822",26.4,36
+2023,Emergency,RJN,East Cheshire NHS Trust,"1,820,809","141,069",12.9,119
+2023,Emergency,RJR,Countess of Chester Hospital NHS Foundation Trust,"3,762,158","210,690",17.9,97
+2023,Emergency,RJZ,King's College Hospital NHS Foundation Trust,"11,692,943","636,302",18.4,93
+2023,Emergency,RK5,Sherwood Forest Hospitals NHS Foundation Trust,"8,400,873","348,058",24.1,50
+2023,Emergency,RK9,University Hospitals Plymouth NHS Trust,"10,408,240","473,003",22,66
+2023,Emergency,RKB,University Hospitals Coventry and Warwickshire NHS Trust,"12,554,380","554,427",22.6,59
+2023,Emergency,RKE,Whittington Health NHS Trust,"5,079,313","208,436",24.4,47
+2023,Emergency,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,"13,983",742,18.8,88
+2023,Emergency,RL4,The Royal Wolverhampton NHS Trust,"12,950,989","471,040",27.5,28
+2023,Emergency,RLQ,Wye Valley NHS Trust,"3,483,976","184,857",18.8,87
+2023,Emergency,RLT,George Eliot Hospital NHS Trust,"3,818,808","179,393",21.3,72
+2023,Emergency,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,"10,968,342","589,897",18.6,90
+2023,Emergency,RM3,Northern Care Alliance NHS Foundation Trust,"26,198,931","827,615",31.7,10
+2023,Emergency,RMC,Bolton NHS Foundation Trust,"9,858,464","314,190",31.4,11
+2023,Emergency,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,"6,529,480","222,007",29.4,21
+2023,Emergency,RN3,Great Western Hospitals NHS Foundation Trust,"5,856,130","382,126",15.3,112
+2023,Emergency,RN5,Hampshire Hospitals NHS Foundation Trust,"5,742,188","484,479",11.9,126
+2023,Emergency,RN7,Dartford and Gravesham NHS Trust,"6,396,483","328,214",19.5,82
+2023,Emergency,RNA,The Dudley Group NHS Foundation Trust,"8,887,348","367,758",24.2,49
+2023,Emergency,RNN,North Cumbria Integrated Care NHS Foundation Trust,"6,840,293","301,658",22.7,57
+2023,Emergency,RNQ,Kettering General Hospital NHS Foundation Trust,"5,551,066","307,477",18.1,95
+2023,Emergency,RNS,Northampton General Hospital NHS Trust,"7,024,020","396,398",17.7,100
+2023,Emergency,RNZ,Salisbury NHS Foundation Trust,"3,073,750","214,398",14.3,114
+2023,Emergency,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,"126,164","3,829",32.9,8
+2023,Emergency,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,"11,267,033","403,669",27.9,24
+2023,Emergency,RP6,Moorfields Eye Hospital NHS Foundation Trust,"107,619","5,830",18.5,92
+2023,Emergency,RPA,Medway NHS Foundation Trust,"8,686,076","346,207",25.1,42
+2023,Emergency,RPC,Queen Victoria Hospital NHS Foundation Trust,"1,612,039","90,656",17.8,98
+2023,Emergency,RPY,The Royal Marsden NHS Foundation Trust,"166,107","12,629",13.2,118
+2023,Emergency,RQ3,Birmingham Women's and Children's NHS Foundation Trust,"4,359,093","123,092",35.4,4
+2023,Emergency,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,"12,908,963","639,371",20.2,77
+2023,Emergency,RQW,The Princess Alexandra Hospital NHS Trust,"4,507,866","292,665",15.4,110
+2023,Emergency,RQX,Homerton Healthcare NHS Foundation Trust,"7,900,643","256,708",30.8,15
+2023,Emergency,RR7,Gateshead Health NHS Foundation Trust,"5,112,401","183,870",27.8,26
+2023,Emergency,RR8,Leeds Teaching Hospitals NHS Trust,"19,698,439","774,432",25.4,40
+2023,Emergency,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust","6,650,046","262,882",25.3,41
+2023,Emergency,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,835,93,9,133
+2023,Emergency,RRK,University Hospitals Birmingham NHS Foundation Trust,"38,826,958","1,248,353",31.1,13
+2023,Emergency,RRV,University College London Hospitals NHS Foundation Trust,"7,410,437","297,020",24.9,44
+2023,Emergency,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,"13,893,987","522,953",26.6,34
+2023,Emergency,RTE,Gloucestershire Hospitals NHS Foundation Trust,"9,134,484","594,252",15.4,111
+2023,Emergency,RTF,Northumbria Healthcare NHS Foundation Trust,"9,302,906","418,049",22.3,61
+2023,Emergency,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,"15,606,544","770,639",20.3,76
+2023,Emergency,RTH,Oxford University Hospitals NHS Foundation Trust,"9,406,997","803,729",11.7,127
+2023,Emergency,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,"4,051,138","330,468",12.3,122
+2023,Emergency,RTP,Surrey and Sussex Healthcare NHS Trust,"5,482,963","411,984",13.3,117
+2023,Emergency,RTR,South Tees Hospitals NHS Foundation Trust,"12,671,993","425,885",29.8,20
+2023,Emergency,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,"6,375,623","320,750",19.9,80
+2023,Emergency,RVJ,North Bristol NHS Trust,"7,649,798","490,984",15.6,108
+2023,Emergency,RVR,Epsom and St Helier University Hospitals NHS Trust,"4,076,137","340,283",12,125
+2023,Emergency,RVV,East Kent Hospitals University NHS Foundation Trust,"15,914,082","666,733",23.9,52
+2023,Emergency,RVW,North Tees and Hartlepool NHS Foundation Trust,"9,264,086","301,099",30.8,16
+2023,Emergency,RWA,Hull University Teaching Hospitals NHS Trust,"13,765,795","531,515",25.9,38
+2023,Emergency,RWD,United Lincolnshire Teaching Hospitals NHS Trust,"12,647,252","548,541",23.1,55
+2023,Emergency,RWE,University Hospitals of Leicester NHS Trust,"19,741,371","924,354",21.4,71
+2023,Emergency,RWF,Maidstone and Tunbridge Wells NHS Trust,"8,173,419","537,134",15.2,113
+2023,Emergency,RWG,West Hertfordshire Teaching Hospitals NHS Trust,"5,452,347","422,538",12.9,120
+2023,Emergency,RWH,East and North Hertfordshire NHS Trust,"5,904,755","423,567",13.9,115
+2023,Emergency,RWJ,Stockport NHS Foundation Trust,"6,082,333","321,006",18.9,85
+2023,Emergency,RWP,Worcestershire Acute Hospitals NHS Trust,"9,553,279","538,157",17.8,99
+2023,Emergency,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,"5,005,691","239,678",20.9,73
+2023,Emergency,RWY,Calderdale and Huddersfield NHS Foundation Trust,"10,659,400","415,727",25.6,39
+2023,Emergency,RX1,Nottingham University Hospitals NHS Trust,"18,344,244","825,929",22.2,62
+2023,Emergency,RXC,East Sussex Healthcare NHS Trust,"8,685,678","362,600",24,51
+2023,Emergency,RXF,Mid Yorkshire Teaching NHS Trust,"15,207,231","556,726",27.3,29
+2023,Emergency,RXK,Sandwell and West Birmingham Hospitals NHS Trust,"15,122,939","404,657",37.4,3
+2023,Emergency,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,"9,398,013","312,270",30.1,17
+2023,Emergency,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,"8,810,175","421,966",20.9,74
+2023,Emergency,RXP,County Durham and Darlington NHS Foundation Trust,"13,391,272","502,402",26.7,33
+2023,Emergency,RXQ,Buckinghamshire Healthcare NHS Trust,"5,053,268","405,677",12.5,121
+2023,Emergency,RXR,East Lancashire Hospitals NHS Trust,"15,894,455","476,293",33.4,7
+2023,Emergency,RXW,The Shrewsbury and Telford Hospital NHS Trust,"9,058,789","450,475",20.1,78
+2023,Emergency,RYJ,Imperial College Healthcare NHS Trust,"13,029,696","539,007",24.2,48
+2023,Emergency,RYR,University Hospitals Sussex NHS Foundation Trust,"16,225,227","982,953",16.5,105
+2024,All Admissions,R0A,Manchester University NHS Foundation Trust,"34,274,575","1,172,065",29.2,19
+2024,All Admissions,R0B,South Tyneside and Sunderland NHS Foundation Trust,"13,809,549","429,727",32.1,8
+2024,All Admissions,R0D,University Hospitals Dorset NHS Foundation Trust,"8,269,550","513,788",16.1,109
+2024,All Admissions,R1F,Isle of Wight NHS Trust,"2,842,868","115,516",24.6,45
+2024,All Admissions,R1H,Barts Health NHS Trust,"28,147,666","1,051,489",26.8,30
+2024,All Admissions,R1K,London North West University Healthcare NHS Trust,"13,950,604","595,458",23.4,51
+2024,All Admissions,RA2,Royal Surrey County Hospital NHS Foundation Trust,"3,261,889","327,670",10,134
+2024,All Admissions,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,"11,461,132","600,989",19.1,88
+2024,All Admissions,RA9,Torbay and South Devon NHS Foundation Trust,"5,354,437","242,471",22.1,66
+2024,All Admissions,RAE,Bradford Teaching Hospitals NHS Foundation Trust,"15,767,162","404,197",39,1
+2024,All Admissions,RAJ,Mid and South Essex NHS Foundation Trust,"19,913,712","1,089,176",18.3,95
+2024,All Admissions,RAL,Royal Free London NHS Foundation Trust,"21,794,590","899,746",24.2,47
+2024,All Admissions,RAN,Royal National Orthopaedic Hospital NHS Trust,"1,021,869","54,648",18.7,92
+2024,All Admissions,RAS,The Hillingdon Hospitals NHS Foundation Trust,"5,252,301","239,733",21.9,69
+2024,All Admissions,RAX,Kingston and Richmond NHS Foundation Trust,"3,636,663","337,389",10.8,133
+2024,All Admissions,RBD,Dorset County Hospital NHS Foundation Trust,"3,691,046","197,676",18.7,93
+2024,All Admissions,RBK,Walsall Healthcare NHS Trust,"8,438,612","267,472",31.5,10
+2024,All Admissions,RBL,Wirral University Teaching Hospital NHS Foundation Trust,"7,749,834","291,262",26.6,33
+2024,All Admissions,RBN,Mersey and West Lancashire Teaching Hospitals NHS Trust,"15,489,600","580,290",26.7,31
+2024,All Admissions,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,"1,513,236","58,447",25.9,38
+2024,All Admissions,RBS,Alder Hey Children's NHS Foundation Trust,"3,814,864","117,479",32.5,7
+2024,All Admissions,RBT,Mid Cheshire Hospitals NHS Foundation Trust,"4,613,010","260,096",17.7,101
+2024,All Admissions,RBV,The Christie NHS Foundation Trust,"1,345,495","57,997",23.2,54
+2024,All Admissions,RC9,Bedfordshire Hospitals NHS Foundation Trust,"12,617,832","628,498",20.1,81
+2024,All Admissions,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,"8,295,009","488,674",17,104
+2024,All Admissions,RCD,Harrogate and District NHS Foundation Trust,"2,086,200","182,420",11.4,132
+2024,All Admissions,RCF,Airedale NHS Foundation Trust,"3,969,488","179,131",22.2,64
+2024,All Admissions,RCU,Sheffield Children's NHS Foundation Trust,"2,471,041","83,527",29.6,18
+2024,All Admissions,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust","5,168,537","205,970",25.1,42
+2024,All Admissions,RD1,Royal United Hospitals Bath NHS Foundation Trust,"5,594,130","412,431",13.6,119
+2024,All Admissions,RD8,Milton Keynes University Hospital NHS Foundation Trust,"5,006,521","289,932",17.3,103
+2024,All Admissions,RDE,East Suffolk and North Essex NHS Foundation Trust,"14,213,858","685,017",20.7,76
+2024,All Admissions,RDU,Frimley Health NHS Foundation Trust,"8,226,874","680,650",12.1,127
+2024,All Admissions,REF,Royal Cornwall Hospitals NHS Trust,"9,382,313","422,736",22.2,63
+2024,All Admissions,REM,Liverpool University Hospitals NHS Foundation Trust,"16,365,641","498,761",32.8,5
+2024,All Admissions,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,"415,078","15,123",27.4,26
+2024,All Admissions,REP,Liverpool Women's NHS Foundation Trust,"4,580,729","128,135",35.7,3
+2024,All Admissions,RET,The Walton Centre NHS Foundation Trust,"980,156","35,314",27.8,25
+2024,All Admissions,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust","13,262,728","604,047",22,68
+2024,All Admissions,RFF,Barnsley Hospital NHS Foundation Trust,"6,410,350","224,030",28.6,21
+2024,All Admissions,RFR,The Rotherham NHS Foundation Trust,"6,727,805","217,199",31,13
+2024,All Admissions,RFS,Chesterfield Royal Hospital NHS Foundation Trust,"5,451,522","251,697",21.7,72
+2024,All Admissions,RGM,Royal Papworth Hospital NHS Foundation Trust,"1,864,009","113,044",16.5,108
+2024,All Admissions,RGN,North West Anglia NHS Foundation Trust,"9,848,053","514,931",19.1,87
+2024,All Admissions,RGP,James Paget University Hospitals NHS Foundation Trust,"5,784,626","203,525",28.4,22
+2024,All Admissions,RGR,West Suffolk NHS Foundation Trust,"4,277,377","252,940",16.9,105
+2024,All Admissions,RGT,Cambridge University Hospitals NHS Foundation Trust,"7,221,206","574,506",12.6,124
+2024,All Admissions,RH5,Somerset NHS Foundation Trust,"9,054,843","467,693",19.4,85
+2024,All Admissions,RH8,Royal Devon University Healthcare NHS Foundation Trust,"11,081,672","598,121",18.5,94
+2024,All Admissions,RHM,University Hospital Southampton NHS Foundation Trust,"11,306,745","634,480",17.8,99
+2024,All Admissions,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,"17,869,414","670,472",26.7,32
+2024,All Admissions,RHU,Portsmouth Hospitals University NHS Trust,"11,216,458","571,207",19.6,83
+2024,All Admissions,RHW,Royal Berkshire NHS Foundation Trust,"5,661,264","483,320",11.7,131
+2024,All Admissions,RJ1,Guy's and St Thomas' NHS Foundation Trust,"16,884,821","814,692",20.7,77
+2024,All Admissions,RJ2,Lewisham and Greenwich NHS Trust,"11,391,655","511,314",22.3,60
+2024,All Admissions,RJ6,Croydon Health Services NHS Trust,"5,790,585","258,633",22.4,59
+2024,All Admissions,RJ7,St George's University Hospitals NHS Foundation Trust,"7,786,478","501,846",15.5,113
+2024,All Admissions,RJC,South Warwickshire University NHS Foundation Trust,"3,395,989","281,768",12.1,128
+2024,All Admissions,RJE,University Hospitals of North Midlands NHS Trust,"15,230,572","665,985",22.9,57
+2024,All Admissions,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,"9,648,929","365,512",26.4,34
+2024,All Admissions,RJN,East Cheshire NHS Trust,"1,561,136","121,371",12.9,122
+2024,All Admissions,RJR,Countess of Chester Hospital NHS Foundation Trust,"3,545,882","196,560",18,97
+2024,All Admissions,RJZ,King's College Hospital NHS Foundation Trust,"13,385,316","708,227",18.9,89
+2024,All Admissions,RK5,Sherwood Forest Hospitals NHS Foundation Trust,"8,062,351","337,777",23.9,50
+2024,All Admissions,RK9,University Hospitals Plymouth NHS Trust,"10,585,416","483,264",21.9,70
+2024,All Admissions,RKB,University Hospitals Coventry and Warwickshire NHS Trust,"12,282,684","546,207",22.5,58
+2024,All Admissions,RKE,Whittington Health NHS Trust,"4,969,019","196,777",25.3,40
+2024,All Admissions,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,"941,407","52,702",17.9,98
+2024,All Admissions,RL4,The Royal Wolverhampton NHS Trust,"12,782,382","472,919",27,29
+2024,All Admissions,RLQ,Wye Valley NHS Trust,"3,279,053","174,508",18.8,91
+2024,All Admissions,RLT,George Eliot Hospital NHS Trust,"3,923,028","181,815",21.6,73
+2024,All Admissions,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,"11,412,795","605,284",18.9,90
+2024,All Admissions,RM3,Northern Care Alliance NHS Foundation Trust,"24,629,672","772,903",31.9,9
+2024,All Admissions,RMC,Bolton NHS Foundation Trust,"9,810,673","315,680",31.1,12
+2024,All Admissions,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,"5,556,348","187,778",29.6,17
+2024,All Admissions,RN3,Great Western Hospitals NHS Foundation Trust,"5,566,013","362,110",15.4,115
+2024,All Admissions,RN5,Hampshire Hospitals NHS Foundation Trust,"5,574,858","468,137",11.9,130
+2024,All Admissions,RN7,Dartford and Gravesham NHS Trust,"5,997,151","307,741",19.5,84
+2024,All Admissions,RNA,The Dudley Group NHS Foundation Trust,"9,033,530","367,860",24.6,46
+2024,All Admissions,RNN,North Cumbria Integrated Care NHS Foundation Trust,"5,868,303","256,591",22.9,56
+2024,All Admissions,RNQ,Kettering General Hospital NHS Foundation Trust,"5,484,821","300,830",18.2,96
+2024,All Admissions,RNS,Northampton General Hospital NHS Trust,"6,651,668","375,079",17.7,102
+2024,All Admissions,RNZ,Salisbury NHS Foundation Trust,"3,242,830","224,952",14.4,116
+2024,All Admissions,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,"1,888,118","85,945",22,67
+2024,All Admissions,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,"10,939,084","388,856",28.1,23
+2024,All Admissions,RP6,Moorfields Eye Hospital NHS Foundation Trust,"4,454,131","200,001",22.3,62
+2024,All Admissions,RPA,Medway NHS Foundation Trust,"7,956,339","317,714",25,43
+2024,All Admissions,RPC,Queen Victoria Hospital NHS Foundation Trust,"2,085,916","126,205",16.5,107
+2024,All Admissions,RPY,The Royal Marsden NHS Foundation Trust,"941,766","68,508",13.7,118
+2024,All Admissions,RQ3,Birmingham Women's and Children's NHS Foundation Trust,"7,893,856","241,492",32.7,6
+2024,All Admissions,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,"11,514,329","561,690",20.5,78
+2024,All Admissions,RQW,The Princess Alexandra Hospital NHS Trust,"3,723,407","238,956",15.6,112
+2024,All Admissions,RQX,Homerton Healthcare NHS Foundation Trust,"8,381,063","280,452",29.9,15
+2024,All Admissions,RR7,Gateshead Health NHS Foundation Trust,"4,848,799","174,389",27.8,24
+2024,All Admissions,RR8,Leeds Teaching Hospitals NHS Trust,"22,288,194","883,613",25.2,41
+2024,All Admissions,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust","7,124,820","287,564",24.8,44
+2024,All Admissions,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,"1,779,707","68,306",26.1,36
+2024,All Admissions,RRK,University Hospitals Birmingham NHS Foundation Trust,"34,773,225","1,126,429",30.9,14
+2024,All Admissions,RRV,University College London Hospitals NHS Foundation Trust,"13,175,093","568,542",23.2,55
+2024,All Admissions,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,"17,566,172","666,883",26.3,35
+2024,All Admissions,RTE,Gloucestershire Hospitals NHS Foundation Trust,"9,074,465","589,767",15.4,114
+2024,All Admissions,RTF,Northumbria Healthcare NHS Foundation Trust,"8,438,257","381,135",22.1,65
+2024,All Admissions,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,"16,263,837","802,301",20.3,79
+2024,All Admissions,RTH,Oxford University Hospitals NHS Foundation Trust,"10,156,719","852,784",11.9,129
+2024,All Admissions,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,"4,172,909","325,710",12.8,123
+2024,All Admissions,RTP,Surrey and Sussex Healthcare NHS Trust,"4,980,820","372,556",13.4,120
+2024,All Admissions,RTR,South Tees Hospitals NHS Foundation Trust,"13,965,352","480,617",29.1,20
+2024,All Admissions,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,"5,876,412","293,738",20,82
+2024,All Admissions,RVJ,North Bristol NHS Trust,"8,418,258","529,948",15.9,110
+2024,All Admissions,RVR,Epsom and St Helier University Hospitals NHS Trust,"4,404,299","360,954",12.2,126
+2024,All Admissions,RVV,East Kent Hospitals University NHS Foundation Trust,"15,040,081","628,346",23.9,48
+2024,All Admissions,RVW,North Tees and Hartlepool NHS Foundation Trust,"8,394,616","269,090",31.2,11
+2024,All Admissions,RWA,Hull University Teaching Hospitals NHS Trust,"14,153,110","550,669",25.7,39
+2024,All Admissions,RWD,United Lincolnshire Teaching Hospitals NHS Trust,"11,795,368","506,612",23.3,52
+2024,All Admissions,RWE,University Hospitals of Leicester NHS Trust,"20,414,084","967,419",21.1,75
+2024,All Admissions,RWF,Maidstone and Tunbridge Wells NHS Trust,"8,162,509","523,389",15.6,111
+2024,All Admissions,RWG,West Hertfordshire Teaching Hospitals NHS Trust,"5,013,015","384,571",13,121
+2024,All Admissions,RWH,East and North Hertfordshire NHS Trust,"5,981,411","428,722",14,117
+2024,All Admissions,RWJ,Stockport NHS Foundation Trust,"5,630,808","293,287",19.2,86
+2024,All Admissions,RWP,Worcestershire Acute Hospitals NHS Trust,"9,075,500","509,309",17.8,100
+2024,All Admissions,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,"4,560,387","215,189",21.2,74
+2024,All Admissions,RWY,Calderdale and Huddersfield NHS Foundation Trust,"10,268,931","396,167",25.9,37
+2024,All Admissions,RX1,Nottingham University Hospitals NHS Trust,"19,203,702","862,018",22.3,61
+2024,All Admissions,RXC,East Sussex Healthcare NHS Trust,"8,238,722","344,214",23.9,49
+2024,All Admissions,RXF,Mid Yorkshire Teaching NHS Trust,"14,011,995","511,018",27.4,27
+2024,All Admissions,RXK,Sandwell and West Birmingham Hospitals NHS Trust,"15,327,546","412,728",37.1,2
+2024,All Admissions,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,"8,853,174","296,513",29.9,16
+2024,All Admissions,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,"10,084,044","464,488",21.7,71
+2024,All Admissions,RXP,County Durham and Darlington NHS Foundation Trust,"11,864,985","436,903",27.2,28
+2024,All Admissions,RXQ,Buckinghamshire Healthcare NHS Trust,"5,125,087","416,861",12.3,125
+2024,All Admissions,RXR,East Lancashire Hospitals NHS Trust,"15,172,777","456,457",33.2,4
+2024,All Admissions,RXW,The Shrewsbury and Telford Hospital NHS Trust,"8,025,889","396,036",20.3,80
+2024,All Admissions,RYJ,Imperial College Healthcare NHS Trust,"16,345,257","703,259",23.2,53
+2024,All Admissions,RYR,University Hospitals Sussex NHS Foundation Trust,"15,937,252","955,999",16.7,106
+2024,Elective,R0A,Manchester University NHS Foundation Trust,"35,849,223","1,237,924",29,20
+2024,Elective,R0B,South Tyneside and Sunderland NHS Foundation Trust,"14,211,782","448,147",31.7,10
+2024,Elective,R0D,University Hospitals Dorset NHS Foundation Trust,"8,339,764","518,879",16.1,110
+2024,Elective,R1F,Isle of Wight NHS Trust,"2,702,778","109,894",24.6,44
+2024,Elective,R1H,Barts Health NHS Trust,"26,773,804","1,006,436",26.6,31
+2024,Elective,R1K,London North West University Healthcare NHS Trust,"13,476,352","569,602",23.7,52
+2024,Elective,RA2,Royal Surrey County Hospital NHS Foundation Trust,"3,236,816","321,500",10.1,134
+2024,Elective,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,"11,559,651","614,597",18.8,91
+2024,Elective,RA9,Torbay and South Devon NHS Foundation Trust,"5,178,398","234,013",22.1,66
+2024,Elective,RAE,Bradford Teaching Hospitals NHS Foundation Trust,"15,606,045","406,203",38.4,1
+2024,Elective,RAJ,Mid and South Essex NHS Foundation Trust,"19,294,473","1,056,793",18.3,96
+2024,Elective,RAL,Royal Free London NHS Foundation Trust,"20,746,067","853,873",24.3,47
+2024,Elective,RAN,Royal National Orthopaedic Hospital NHS Trust,"1,850,436","97,164",19,89
+2024,Elective,RAS,The Hillingdon Hospitals NHS Foundation Trust,"4,405,320","210,596",20.9,75
+2024,Elective,RAX,Kingston and Richmond NHS Foundation Trust,"3,104,956","291,306",10.7,133
+2024,Elective,RBD,Dorset County Hospital NHS Foundation Trust,"3,623,947","193,254",18.8,93
+2024,Elective,RBK,Walsall Healthcare NHS Trust,"7,089,833","219,496",32.3,7
+2024,Elective,RBL,Wirral University Teaching Hospital NHS Foundation Trust,"7,405,854","279,952",26.5,33
+2024,Elective,RBN,Mersey and West Lancashire Teaching Hospitals NHS Trust,"14,064,068","535,457",26.3,36
+2024,Elective,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,"1,904,917","70,632",27,30
+2024,Elective,RBS,Alder Hey Children's NHS Foundation Trust,"4,198,980","131,102",32,8
+2024,Elective,RBT,Mid Cheshire Hospitals NHS Foundation Trust,"4,224,226","238,753",17.7,101
+2024,Elective,RBV,The Christie NHS Foundation Trust,"2,137,235","89,366",23.9,48
+2024,Elective,RC9,Bedfordshire Hospitals NHS Foundation Trust,"11,651,085","579,101",20.1,81
+2024,Elective,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,"7,878,050","468,533",16.8,106
+2024,Elective,RCD,Harrogate and District NHS Foundation Trust,"2,132,092","184,833",11.5,132
+2024,Elective,RCF,Airedale NHS Foundation Trust,"3,748,667","166,228",22.6,59
+2024,Elective,RCU,Sheffield Children's NHS Foundation Trust,"3,418,452","112,654",30.3,15
+2024,Elective,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust","4,814,870","191,323",25.2,41
+2024,Elective,RD1,Royal United Hospitals Bath NHS Foundation Trust,"5,151,483","380,453",13.5,119
+2024,Elective,RD8,Milton Keynes University Hospital NHS Foundation Trust,"4,749,505","276,192",17.2,103
+2024,Elective,RDE,East Suffolk and North Essex NHS Foundation Trust,"13,681,976","659,887",20.7,77
+2024,Elective,RDU,Frimley Health NHS Foundation Trust,"7,797,363","648,032",12,129
+2024,Elective,REF,Royal Cornwall Hospitals NHS Trust,"9,415,534","424,138",22.2,63
+2024,Elective,REM,Liverpool University Hospitals NHS Foundation Trust,"19,473,622","594,773",32.7,6
+2024,Elective,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,"590,566","20,573",28.7,23
+2024,Elective,REP,Liverpool Women's NHS Foundation Trust,"2,003,464","58,190",34.4,3
+2024,Elective,RET,The Walton Centre NHS Foundation Trust,"1,544,033","53,092",29.1,19
+2024,Elective,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust","12,153,645","557,796",21.8,71
+2024,Elective,RFF,Barnsley Hospital NHS Foundation Trust,"5,735,571","198,302",28.9,21
+2024,Elective,RFR,The Rotherham NHS Foundation Trust,"5,920,295","191,704",30.9,13
+2024,Elective,RFS,Chesterfield Royal Hospital NHS Foundation Trust,"4,795,863","220,632",21.7,72
+2024,Elective,RGM,Royal Papworth Hospital NHS Foundation Trust,"2,539,307","153,683",16.5,107
+2024,Elective,RGN,North West Anglia NHS Foundation Trust,"9,350,910","483,591",19.3,86
+2024,Elective,RGP,James Paget University Hospitals NHS Foundation Trust,"5,679,732","200,772",28.3,24
+2024,Elective,RGR,West Suffolk NHS Foundation Trust,"4,000,265","237,324",16.9,104
+2024,Elective,RGT,Cambridge University Hospitals NHS Foundation Trust,"7,849,699","607,501",12.9,123
+2024,Elective,RH5,Somerset NHS Foundation Trust,"8,627,795","444,957",19.4,85
+2024,Elective,RH8,Royal Devon University Healthcare NHS Foundation Trust,"11,288,712","608,254",18.6,94
+2024,Elective,RHM,University Hospital Southampton NHS Foundation Trust,"11,881,081","665,476",17.9,99
+2024,Elective,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,"19,874,726","752,890",26.4,34
+2024,Elective,RHU,Portsmouth Hospitals University NHS Trust,"11,327,626","581,095",19.5,83
+2024,Elective,RHW,Royal Berkshire NHS Foundation Trust,"5,990,320","508,102",11.8,131
+2024,Elective,RJ1,Guy's and St Thomas' NHS Foundation Trust,"21,725,255","1,060,016",20.5,78
+2024,Elective,RJ2,Lewisham and Greenwich NHS Trust,"8,774,370","396,299",22.1,65
+2024,Elective,RJ6,Croydon Health Services NHS Trust,"5,541,996","250,951",22.1,68
+2024,Elective,RJ7,St George's University Hospitals NHS Foundation Trust,"7,625,606","503,502",15.1,115
+2024,Elective,RJC,South Warwickshire University NHS Foundation Trust,"3,170,288","258,217",12.3,125
+2024,Elective,RJE,University Hospitals of North Midlands NHS Trust,"15,032,347","655,495",22.9,55
+2024,Elective,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,"8,757,494","334,908",26.1,37
+2024,Elective,RJN,East Cheshire NHS Trust,"1,459,263","114,400",12.8,124
+2024,Elective,RJR,Countess of Chester Hospital NHS Foundation Trust,"3,425,778","189,523",18.1,97
+2024,Elective,RJZ,King's College Hospital NHS Foundation Trust,"14,892,363","775,328",19.2,87
+2024,Elective,RK5,Sherwood Forest Hospitals NHS Foundation Trust,"7,461,908","313,778",23.8,50
+2024,Elective,RK9,University Hospitals Plymouth NHS Trust,"10,628,267","485,765",21.9,70
+2024,Elective,RKB,University Hospitals Coventry and Warwickshire NHS Trust,"12,021,785","541,836",22.2,64
+2024,Elective,RKE,Whittington Health NHS Trust,"4,366,041","173,506",25.2,42
+2024,Elective,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,"1,658,701","91,786",18.1,98
+2024,Elective,RL4,The Royal Wolverhampton NHS Trust,"12,570,061","473,541",26.5,32
+2024,Elective,RLQ,Wye Valley NHS Trust,"3,237,030","172,582",18.8,92
+2024,Elective,RLT,George Eliot Hospital NHS Trust,"3,739,382","169,325",22.1,67
+2024,Elective,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,"11,826,339","621,780",19,90
+2024,Elective,RM3,Northern Care Alliance NHS Foundation Trust,"25,631,686","803,305",31.9,9
+2024,Elective,RMC,Bolton NHS Foundation Trust,"8,493,196","272,875",31.1,12
+2024,Elective,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,"4,471,991","151,949",29.4,18
+2024,Elective,RN3,Great Western Hospitals NHS Foundation Trust,"5,263,725","340,568",15.5,113
+2024,Elective,RN5,Hampshire Hospitals NHS Foundation Trust,"5,204,172","439,539",11.8,130
+2024,Elective,RN7,Dartford and Gravesham NHS Trust,"5,350,001","274,547",19.5,84
+2024,Elective,RNA,The Dudley Group NHS Foundation Trust,"8,621,525","353,642",24.4,46
+2024,Elective,RNN,North Cumbria Integrated Care NHS Foundation Trust,"5,275,682","230,329",22.9,56
+2024,Elective,RNQ,Kettering General Hospital NHS Foundation Trust,"5,458,356","296,648",18.4,95
+2024,Elective,RNS,Northampton General Hospital NHS Trust,"6,263,478","354,523",17.7,102
+2024,Elective,RNZ,Salisbury NHS Foundation Trust,"3,271,156","225,989",14.5,116
+2024,Elective,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,"3,337,368","150,297",22.2,62
+2024,Elective,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,"10,447,011","369,424",28.3,25
+2024,Elective,RP6,Moorfields Eye Hospital NHS Foundation Trust,"7,857,585","343,877",22.8,58
+2024,Elective,RPA,Medway NHS Foundation Trust,"7,025,196","282,025",24.9,43
+2024,Elective,RPC,Queen Victoria Hospital NHS Foundation Trust,"2,441,818","151,015",16.2,108
+2024,Elective,RPY,The Royal Marsden NHS Foundation Trust,"1,634,119","117,090",14,118
+2024,Elective,RQ3,Birmingham Women's and Children's NHS Foundation Trust,"7,007,007","212,818",32.9,5
+2024,Elective,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,"9,003,323","429,461",21,74
+2024,Elective,RQW,The Princess Alexandra Hospital NHS Trust,"3,181,094","203,881",15.6,112
+2024,Elective,RQX,Homerton Healthcare NHS Foundation Trust,"8,623,124","288,515",29.9,16
+2024,Elective,RR7,Gateshead Health NHS Foundation Trust,"4,662,651","167,758",27.8,27
+2024,Elective,RR8,Leeds Teaching Hospitals NHS Trust,"24,161,898","952,993",25.4,40
+2024,Elective,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust","7,644,032","311,975",24.5,45
+2024,Elective,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,"4,156,674","148,312",28,26
+2024,Elective,RRK,University Hospitals Birmingham NHS Foundation Trust,"34,974,622","1,145,156",30.5,14
+2024,Elective,RRV,University College London Hospitals NHS Foundation Trust,"16,082,470","703,640",22.9,57
+2024,Elective,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,"19,569,774","743,353",26.3,35
+2024,Elective,RTE,Gloucestershire Hospitals NHS Foundation Trust,"9,093,590","593,364",15.3,114
+2024,Elective,RTF,Northumbria Healthcare NHS Foundation Trust,"7,932,390","359,904",22,69
+2024,Elective,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,"16,753,963","824,751",20.3,79
+2024,Elective,RTH,Oxford University Hospitals NHS Foundation Trust,"10,662,170","881,110",12.1,128
+2024,Elective,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,"4,353,375","326,618",13.3,120
+2024,Elective,RTP,Surrey and Sussex Healthcare NHS Trust,"4,659,478","350,710",13.3,121
+2024,Elective,RTR,South Tees Hospitals NHS Foundation Trust,"15,156,195","525,070",28.9,22
+2024,Elective,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,"5,440,749","272,475",20,82
+2024,Elective,RVJ,North Bristol NHS Trust,"8,983,604","558,531",16.1,109
+2024,Elective,RVR,Epsom and St Helier University Hospitals NHS Trust,"4,561,737","372,139",12.3,126
+2024,Elective,RVV,East Kent Hospitals University NHS Foundation Trust,"14,703,544","614,994",23.9,49
+2024,Elective,RVW,North Tees and Hartlepool NHS Foundation Trust,"7,624,393","244,607",31.2,11
+2024,Elective,RWA,Hull University Teaching Hospitals NHS Trust,"14,572,192","567,261",25.7,39
+2024,Elective,RWD,United Lincolnshire Teaching Hospitals NHS Trust,"10,872,823","462,169",23.5,53
+2024,Elective,RWE,University Hospitals of Leicester NHS Trust,"21,125,492","1,011,535",20.9,76
+2024,Elective,RWF,Maidstone and Tunbridge Wells NHS Trust,"7,951,243","498,476",16,111
+2024,Elective,RWG,West Hertfordshire Teaching Hospitals NHS Trust,"4,819,226","372,063",13,122
+2024,Elective,RWH,East and North Hertfordshire NHS Trust,"6,387,169","453,436",14.1,117
+2024,Elective,RWJ,Stockport NHS Foundation Trust,"4,921,768","258,131",19.1,88
+2024,Elective,RWP,Worcestershire Acute Hospitals NHS Trust,"8,723,728","489,771",17.8,100
+2024,Elective,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,"4,400,201","202,527",21.7,73
+2024,Elective,RWY,Calderdale and Huddersfield NHS Foundation Trust,"9,653,305","375,361",25.7,38
+2024,Elective,RX1,Nottingham University Hospitals NHS Trust,"20,112,469","901,867",22.3,61
+2024,Elective,RXC,East Sussex Healthcare NHS Trust,"7,963,875","335,840",23.7,51
+2024,Elective,RXF,Mid Yorkshire Teaching NHS Trust,"13,464,396","492,306",27.3,29
+2024,Elective,RXK,Sandwell and West Birmingham Hospitals NHS Trust,"16,087,549","436,077",36.9,2
+2024,Elective,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,"8,238,188","278,982",29.5,17
+2024,Elective,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,"11,231,100","499,968",22.5,60
+2024,Elective,RXP,County Durham and Darlington NHS Foundation Trust,"10,378,663","377,402",27.5,28
+2024,Elective,RXQ,Buckinghamshire Healthcare NHS Trust,"4,810,726","397,062",12.1,127
+2024,Elective,RXR,East Lancashire Hospitals NHS Trust,"14,616,250","442,045",33.1,4
+2024,Elective,RXW,The Shrewsbury and Telford Hospital NHS Trust,"7,248,867","356,955",20.3,80
+2024,Elective,RYJ,Imperial College Healthcare NHS Trust,"16,479,861","716,220",23,54
+2024,Elective,RYR,University Hospitals Sussex NHS Foundation Trust,"15,374,577","913,476",16.8,105
+2024,Emergency,R0A,Manchester University NHS Foundation Trust,"29,310,674","973,811",30.1,18
+2024,Emergency,R0B,South Tyneside and Sunderland NHS Foundation Trust,"13,957,047","427,641",32.6,8
+2024,Emergency,R0D,University Hospitals Dorset NHS Foundation Trust,"8,465,795","528,502",16,107
+2024,Emergency,R1F,Isle of Wight NHS Trust,"3,095,744","125,936",24.6,46
+2024,Emergency,R1H,Barts Health NHS Trust,"28,312,589","1,042,986",27.1,31
+2024,Emergency,R1K,London North West University Healthcare NHS Trust,"17,239,520","730,957",23.6,54
+2024,Emergency,RA2,Royal Surrey County Hospital NHS Foundation Trust,"3,268,286","334,908",9.8,133
+2024,Emergency,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,"11,318,055","585,594",19.3,83
+2024,Emergency,RA9,Torbay and South Devon NHS Foundation Trust,"5,712,435","259,546",22,67
+2024,Emergency,RAE,Bradford Teaching Hospitals NHS Foundation Trust,"15,942,097","403,306",39.5,1
+2024,Emergency,RAJ,Mid and South Essex NHS Foundation Trust,"20,485,202","1,122,193",18.3,93
+2024,Emergency,RAL,Royal Free London NHS Foundation Trust,"22,463,834","918,672",24.5,47
+2024,Emergency,RAS,The Hillingdon Hospitals NHS Foundation Trust,"5,372,733","244,099",22,66
+2024,Emergency,RAX,Kingston and Richmond NHS Foundation Trust,"3,629,620","340,325",10.7,131
+2024,Emergency,RBD,Dorset County Hospital NHS Foundation Trust,"3,716,544","197,560",18.8,87
+2024,Emergency,RBK,Walsall Healthcare NHS Trust,"9,010,068","289,968",31.1,13
+2024,Emergency,RBL,Wirral University Teaching Hospital NHS Foundation Trust,"8,165,466","307,997",26.5,35
+2024,Emergency,RBN,Mersey and West Lancashire Teaching Hospitals NHS Trust,"16,758,818","621,937",26.9,32
+2024,Emergency,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,"581,814","21,855",26.6,34
+2024,Emergency,RBS,Alder Hey Children's NHS Foundation Trust,"3,952,682","114,686",34.5,5
+2024,Emergency,RBT,Mid Cheshire Hospitals NHS Foundation Trust,"5,039,593","286,266",17.6,100
+2024,Emergency,RBV,The Christie NHS Foundation Trust,"1,235,951","51,560",24,52
+2024,Emergency,RC9,Bedfordshire Hospitals NHS Foundation Trust,"13,235,488","667,417",19.8,80
+2024,Emergency,RCB,York and Scarborough Teaching Hospitals NHS Foundation Trust,"8,770,373","518,974",16.9,104
+2024,Emergency,RCD,Harrogate and District NHS Foundation Trust,"1,890,255","172,733",10.9,130
+2024,Emergency,RCF,Airedale NHS Foundation Trust,"4,314,085","198,355",21.7,69
+2024,Emergency,RCU,Sheffield Children's NHS Foundation Trust,"1,432,364","47,987",29.8,19
+2024,Emergency,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust","5,757,828","229,901",25,43
+2024,Emergency,RD1,Royal United Hospitals Bath NHS Foundation Trust,"5,833,355","431,551",13.5,116
+2024,Emergency,RD8,Milton Keynes University Hospital NHS Foundation Trust,"5,334,701","310,352",17.2,102
+2024,Emergency,RDE,East Suffolk and North Essex NHS Foundation Trust,"14,914,029","718,793",20.7,75
+2024,Emergency,RDU,Frimley Health NHS Foundation Trust,"8,154,345","678,006",12,124
+2024,Emergency,REF,Royal Cornwall Hospitals NHS Trust,"9,365,399","422,328",22.2,64
+2024,Emergency,REM,Liverpool University Hospitals NHS Foundation Trust,"18,949,541","553,018",34.3,6
+2024,Emergency,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,"311,398","11,090",28.1,24
+2024,Emergency,REP,Liverpool Women's NHS Foundation Trust,"399,259","10,247",39,2
+2024,Emergency,RET,The Walton Centre NHS Foundation Trust,"468,381","16,995",27.6,27
+2024,Emergency,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust","15,730,750","707,245",22.2,63
+2024,Emergency,RFF,Barnsley Hospital NHS Foundation Trust,"6,783,964","236,203",28.7,22
+2024,Emergency,RFR,The Rotherham NHS Foundation Trust,"7,452,171","241,213",30.9,14
+2024,Emergency,RFS,Chesterfield Royal Hospital NHS Foundation Trust,"6,014,442","280,356",21.5,70
+2024,Emergency,RGM,Royal Papworth Hospital NHS Foundation Trust,"322,586","20,048",16.1,106
+2024,Emergency,RGN,North West Anglia NHS Foundation Trust,"10,630,796","566,362",18.8,88
+2024,Emergency,RGP,James Paget University Hospitals NHS Foundation Trust,"6,005,045","210,095",28.6,23
+2024,Emergency,RGR,West Suffolk NHS Foundation Trust,"4,786,711","282,998",16.9,103
+2024,Emergency,RGT,Cambridge University Hospitals NHS Foundation Trust,"6,140,336","508,190",12.1,123
+2024,Emergency,RH5,Somerset NHS Foundation Trust,"9,457,039","489,393",19.3,84
+2024,Emergency,RH8,Royal Devon University Healthcare NHS Foundation Trust,"10,912,548","590,289",18.5,92
+2024,Emergency,RHM,University Hospital Southampton NHS Foundation Trust,"10,406,468","579,477",18,96
+2024,Emergency,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,"15,901,706","585,616",27.2,30
+2024,Emergency,RHU,Portsmouth Hospitals University NHS Trust,"11,371,041","578,392",19.7,81
+2024,Emergency,RHW,Royal Berkshire NHS Foundation Trust,"5,567,583","481,308",11.6,129
+2024,Emergency,RJ1,Guy's and St Thomas' NHS Foundation Trust,"10,526,373","470,564",22.4,60
+2024,Emergency,RJ2,Lewisham and Greenwich NHS Trust,"13,570,382","612,659",22.1,65
+2024,Emergency,RJ6,Croydon Health Services NHS Trust,"5,880,745","259,234",22.7,59
+2024,Emergency,RJ7,St George's University Hospitals NHS Foundation Trust,"8,014,635","515,542",15.5,109
+2024,Emergency,RJC,South Warwickshire University NHS Foundation Trust,"3,309,192","284,134",11.6,128
+2024,Emergency,RJE,University Hospitals of North Midlands NHS Trust,"15,313,087","672,330",22.8,56
+2024,Emergency,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,"10,279,967","388,641",26.5,37
+2024,Emergency,RJN,East Cheshire NHS Trust,"1,805,417","139,914",12.9,119
+2024,Emergency,RJR,Countess of Chester Hospital NHS Foundation Trust,"3,780,324","211,634",17.9,97
+2024,Emergency,RJZ,King's College Hospital NHS Foundation Trust,"11,977,009","644,839",18.6,91
+2024,Emergency,RK5,Sherwood Forest Hospitals NHS Foundation Trust,"8,456,880","351,755",24,50
+2024,Emergency,RK9,University Hospitals Plymouth NHS Trust,"10,428,690","474,271",22,68
+2024,Emergency,RKB,University Hospitals Coventry and Warwickshire NHS Trust,"12,111,251","533,496",22.7,57
+2024,Emergency,RKE,Whittington Health NHS Trust,"5,148,935","208,823",24.7,45
+2024,Emergency,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,"16,595",950,17.5,101
+2024,Emergency,RL4,The Royal Wolverhampton NHS Trust,"13,036,142","474,901",27.5,28
+2024,Emergency,RLQ,Wye Valley NHS Trust,"3,458,433","183,602",18.8,86
+2024,Emergency,RLT,George Eliot Hospital NHS Trust,"4,107,732","192,810",21.3,72
+2024,Emergency,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,"10,958,789","589,104",18.6,90
+2024,Emergency,RM3,Northern Care Alliance NHS Foundation Trust,"26,973,009","854,754",31.6,10
+2024,Emergency,RMC,Bolton NHS Foundation Trust,"9,914,419","316,564",31.3,11
+2024,Emergency,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,"6,531,949","221,722",29.5,21
+2024,Emergency,RN3,Great Western Hospitals NHS Foundation Trust,"5,870,582","383,267",15.3,113
+2024,Emergency,RN5,Hampshire Hospitals NHS Foundation Trust,"5,808,463","491,496",11.8,126
+2024,Emergency,RN7,Dartford and Gravesham NHS Trust,"6,470,806","332,101",19.5,82
+2024,Emergency,RNA,The Dudley Group NHS Foundation Trust,"9,395,423","385,947",24.3,48
+2024,Emergency,RNN,North Cumbria Integrated Care NHS Foundation Trust,"6,837,692","301,357",22.7,58
+2024,Emergency,RNQ,Kettering General Hospital NHS Foundation Trust,"5,635,325","312,216",18,94
+2024,Emergency,RNS,Northampton General Hospital NHS Trust,"6,915,680","390,267",17.7,99
+2024,Emergency,RNZ,Salisbury NHS Foundation Trust,"3,118,099","217,334",14.3,114
+2024,Emergency,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,"138,208","4,313",32,9
+2024,Emergency,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,"11,435,832","409,513",27.9,25
+2024,Emergency,RP6,Moorfields Eye Hospital NHS Foundation Trust,"142,389","7,641",18.6,89
+2024,Emergency,RPA,Medway NHS Foundation Trust,"8,389,600","333,809",25.1,42
+2024,Emergency,RPC,Queen Victoria Hospital NHS Foundation Trust,"1,620,635","90,143",18,95
+2024,Emergency,RPY,The Royal Marsden NHS Foundation Trust,"174,267","13,566",12.8,120
+2024,Emergency,RQ3,Birmingham Women's and Children's NHS Foundation Trust,"4,152,282","117,061",35.5,4
+2024,Emergency,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,"12,880,940","638,227",20.2,77
+2024,Emergency,RQW,The Princess Alexandra Hospital NHS Trust,"4,383,256","283,908",15.4,110
+2024,Emergency,RQX,Homerton Healthcare NHS Foundation Trust,"8,098,806","262,829",30.8,15
+2024,Emergency,RR7,Gateshead Health NHS Foundation Trust,"5,031,715","181,242",27.8,26
+2024,Emergency,RR8,Leeds Teaching Hospitals NHS Trust,"19,716,817","775,500",25.4,40
+2024,Emergency,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust","6,634,560","262,349",25.3,41
+2024,Emergency,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,463,45,10.3,132
+2024,Emergency,RRK,University Hospitals Birmingham NHS Foundation Trust,"39,321,617","1,259,389",31.2,12
+2024,Emergency,RRV,University College London Hospitals NHS Foundation Trust,"7,643,960","306,550",24.9,44
+2024,Emergency,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,"14,229,494","537,080",26.5,36
+2024,Emergency,RTE,Gloucestershire Hospitals NHS Foundation Trust,"9,091,324","590,507",15.4,111
+2024,Emergency,RTF,Northumbria Healthcare NHS Foundation Trust,"9,149,357","410,560",22.3,61
+2024,Emergency,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,"15,470,976","762,913",20.3,76
+2024,Emergency,RTH,Oxford University Hospitals NHS Foundation Trust,"9,542,324","812,449",11.7,127
+2024,Emergency,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,"4,148,069","338,440",12.3,122
+2024,Emergency,RTP,Surrey and Sussex Healthcare NHS Trust,"5,522,591","414,808",13.3,117
+2024,Emergency,RTR,South Tees Hospitals NHS Foundation Trust,"12,784,346","430,851",29.7,20
+2024,Emergency,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,"6,432,073","324,156",19.8,79
+2024,Emergency,RVJ,North Bristol NHS Trust,"7,630,789","489,193",15.6,108
+2024,Emergency,RVR,Epsom and St Helier University Hospitals NHS Trust,"4,059,615","338,671",12,125
+2024,Emergency,RVV,East Kent Hospitals University NHS Foundation Trust,"15,720,656","658,194",23.9,53
+2024,Emergency,RVW,North Tees and Hartlepool NHS Foundation Trust,"9,303,538","302,423",30.8,16
+2024,Emergency,RWA,Hull University Teaching Hospitals NHS Trust,"13,777,284","532,884",25.9,38
+2024,Emergency,RWD,United Lincolnshire Teaching Hospitals NHS Trust,"12,685,245","551,927",23,55
+2024,Emergency,RWE,University Hospitals of Leicester NHS Trust,"19,817,631","929,700",21.3,71
+2024,Emergency,RWF,Maidstone and Tunbridge Wells NHS Trust,"8,477,794","552,261",15.4,112
+2024,Emergency,RWG,West Hertfordshire Teaching Hospitals NHS Trust,"5,542,852","427,615",13,118
+2024,Emergency,RWH,East and North Hertfordshire NHS Trust,"5,906,640","423,603",13.9,115
+2024,Emergency,RWJ,Stockport NHS Foundation Trust,"6,206,423","326,457",19,85
+2024,Emergency,RWP,Worcestershire Acute Hospitals NHS Trust,"9,441,852","532,148",17.7,98
+2024,Emergency,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,"4,870,255","234,670",20.8,74
+2024,Emergency,RWY,Calderdale and Huddersfield NHS Foundation Trust,"10,689,633","414,915",25.8,39
+2024,Emergency,RX1,Nottingham University Hospitals NHS Trust,"18,315,972","823,070",22.3,62
+2024,Emergency,RXC,East Sussex Healthcare NHS Trust,"8,643,097","360,251",24,51
+2024,Emergency,RXF,Mid Yorkshire Teaching NHS Trust,"15,068,599","551,369",27.3,29
+2024,Emergency,RXK,Sandwell and West Birmingham Hospitals NHS Trust,"14,149,585","377,917",37.4,3
+2024,Emergency,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,"9,407,755","312,016",30.2,17
+2024,Emergency,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,"8,910,209","426,125",20.9,73
+2024,Emergency,RXP,County Durham and Darlington NHS Foundation Trust,"13,099,260","490,831",26.7,33
+2024,Emergency,RXQ,Buckinghamshire Healthcare NHS Trust,"5,253,126","422,287",12.4,121
+2024,Emergency,RXR,East Lancashire Hospitals NHS Trust,"15,518,041","463,408",33.5,7
+2024,Emergency,RXW,The Shrewsbury and Telford Hospital NHS Trust,"9,044,835","449,704",20.1,78
+2024,Emergency,RYJ,Imperial College Healthcare NHS Trust,"13,860,708","574,554",24.1,49
+2024,Emergency,RYR,University Hospitals Sussex NHS Foundation Trust,"16,333,678","990,136",16.5,105
+,,,,,,,
+,,,,,,,
