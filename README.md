@@ -1,3 +1,5 @@
+> **Superseded.** The current data and code for this paper (version 1.1, corresponding to the second revision of the manuscript) are archived on Zenodo: https://doi.org/10.5281/zenodo.24443151. This repository holds the earlier version (v1.0-resubmission) and is no longer maintained.
+
 # Digital Maturity and Technical Efficiency in NHS Acute Trusts
 
 Code and data for:
